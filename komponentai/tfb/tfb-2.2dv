@@ -1,0 +1,2340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <thumbnail height="0" width="0">
+    <image_data></image_data>
+  </thumbnail>
+  <general>
+    <version>24</version>
+    <local_time>Wed Aug  5 20:12:25 2026</local_time>
+    <scale>0.05</scale>
+    <unit_length>mm</unit_length>
+    <unit_angle>deg</unit_angle>
+    <unit_inch_prec>0</unit_inch_prec>
+    <user_mode>0</user_mode>
+    <win_door_mode>0</win_door_mode>
+    <lexocad_rot>1</lexocad_rot>
+    <lexocad_sym>0</lexocad_sym>
+  </general>
+  <dataproject>
+    <name></name>
+    <num></num>
+    <abschnitt></abschnitt>
+    <archi></archi>
+    <bauh></bauh>
+    <bearb></bearb>
+    <termin></termin>
+    <description></description>
+    <username1></username1>
+    <username2></username2>
+    <username3></username3>
+    <username4></username4>
+    <username5></username5>
+    <username6></username6>
+    <username7></username7>
+    <username8></username8>
+    <username9></username9>
+    <username10></username10>
+    <user1></user1>
+    <user2></user2>
+    <user3></user3>
+    <user4></user4>
+    <user5></user5>
+    <user6></user6>
+    <user7></user7>
+    <user8></user8>
+    <user9></user9>
+    <user10></user10>
+  </dataproject>
+  <parameters>
+    <param index="1" unit="1" isshowed="1" val="?44" name="[TFB beam width]"/>
+    <param index="2" unit="1" isshowed="1" val="P1" name="{}"/>
+    <param index="3" unit="1" isshowed="1" val="?3000" name="[TFB Height]"/>
+    <param index="4" unit="1" isshowed="0" val="p1" name="[]"/>
+    <param index="5" unit="1" isshowed="1" val="?3800" name="[TFB Width]"/>
+    <param index="6" unit="1" isshowed="0" val="p1" name="[]"/>
+    <param index="7" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="8" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="9" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="10" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="11" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="12" unit="1" isshowed="1" val="?150" name="[TFB beam height]"/>
+    <param index="13" unit="1" isshowed="1" val="P7" name="{H}"/>
+    <param index="14" unit="1" isshowed="1" val="P8" name="{H}"/>
+    <param index="15" unit="1" isshowed="1" val="P9" name="{H}"/>
+    <param index="16" unit="1" isshowed="1" val="P10" name="{H}"/>
+    <param index="17" unit="1" isshowed="1" val="P11" name="{H}"/>
+    <param index="18" unit="1" isshowed="1" val="P12" name="{}"/>
+    <param index="19" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="20" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="21" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="22" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="23" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="24" unit="1" isshowed="0" val="p12" name="[]"/>
+    <param index="25" unit="1" isshowed="1" val="P19" name="{H}"/>
+    <param index="26" unit="1" isshowed="1" val="P20" name="{H}"/>
+    <param index="27" unit="1" isshowed="1" val="P21" name="{H}"/>
+    <param index="28" unit="1" isshowed="1" val="P22" name="{H}"/>
+    <param index="29" unit="1" isshowed="1" val="P23" name="{H}"/>
+    <param index="30" unit="1" isshowed="1" val="P24" name="{}"/>
+    <param index="31" unit="0" isshowed="1" val="    2" name="{N}"/>
+    <param index="32" unit="1" isshowed="0" val="p1/2" name="[]"/>
+    <param index="33" unit="1" isshowed="1" val="P32" name="{}"/>
+    <param index="34" unit="0" isshowed="1" val="?5" name="[Number of divisions]"/>
+    <param index="35" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="36" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="37" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="38" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="39" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="40" unit="1" isshowed="0" val="p12" name="[]"/>
+    <param index="41" unit="1" isshowed="1" val="p5-p1*2" name="[Internal width]"/>
+    <param index="42" unit="1" isshowed="1" val="p3-p1*2" name="[Internal height]"/>
+    <param index="43" unit="1" isshowed="1" val="?581" name="[Distance between divison beams]"/>
+    <param index="44" unit="1" isshowed="1" val="(p41-((p1+p43)*p34+p1))/2" name="[First divison beam distance]"/>
+    <param index="45" unit="1" isshowed="0" val="p44" name="[]"/>
+    <param index="46" unit="1" isshowed="0" val="p1" name="[]"/>
+    <param index="47" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="48" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="49" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="50" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="51" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="52" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="53" unit="1" isshowed="1" val="0.0000000000000E+00" name="{H}"/>
+    <param index="54" unit="1" isshowed="0" val="p12" name="[]"/>
+    <param index="55" unit="1" isshowed="1" val="P49" name="{H}"/>
+    <param index="56" unit="1" isshowed="1" val="P50" name="{H}"/>
+    <param index="57" unit="1" isshowed="1" val="P51" name="{H}"/>
+    <param index="58" unit="1" isshowed="1" val="P52" name="{H}"/>
+    <param index="59" unit="1" isshowed="1" val="P53" name="{H}"/>
+    <param index="60" unit="1" isshowed="1" val="P54" name="{}"/>
+    <param index="61" unit="1" isshowed="0" val="p43" name="[]"/>
+    <param index="62" unit="0" isshowed="0" val="p34" name="[]"/>
+  </parameters>
+  <points>
+    <pref index="1" param_x="0" color="5" param_z="0" visible="1" param_y="0"/>
+    <pdd index="2" dr1="5" color="8" dr2="2" visible="1"/>
+    <pdd index="3" dr1="1" color="8" dr2="4" visible="1"/>
+    <pdd index="4" dr1="4" color="8" dr2="5" visible="1"/>
+    <pdd index="5" dr1="1" color="8" dr2="7" visible="1"/>
+    <ppv2 index="6" pt_to_translate="1" pt1="3" color="8" visible="1" pt2="5" pos="1"/>
+    <ppv2 index="7" pt_to_translate="2" pt1="3" color="8" visible="1" pt2="5" pos="1"/>
+    <ppv2 index="8" pt_to_translate="3" pt1="3" color="8" visible="1" pt2="5" pos="1"/>
+    <ppv2 index="9" pt_to_translate="4" pt1="3" color="8" visible="1" pt2="5" pos="1"/>
+    <pdd index="10" dr1="6" color="5" dr2="4" visible="1"/>
+    <pdd index="11" dr1="6" color="5" dr2="8" visible="1"/>
+    <ppv2 index="12" pt_to_translate="4" pt1="10" color="5" visible="1" pt2="3" pos="1"/>
+    <ppv2 index="13" pt_to_translate="7" pt1="10" color="5" visible="1" pt2="3" pos="1"/>
+    <ppv2 index="14" pt_to_translate="10" pt1="10" color="5" visible="1" pt2="3" pos="1"/>
+    <ppv2 index="15" pt_to_translate="11" pt1="10" color="5" visible="1" pt2="3" pos="1"/>
+    <pppd param_rapport="31" index="16" pt1="10" color="5" visible="1" pt2="12" pos="1" cr="0"/>
+    <pdd index="17" dr1="11" color="5" dr2="4" visible="1"/>
+    <pdd index="18" dr1="10" color="5" dr2="4" visible="1"/>
+    <pdd index="19" dr1="10" color="5" dr2="8" visible="1"/>
+    <pdd index="20" dr1="11" color="5" dr2="8" visible="1"/>
+    <pdd index="21" dr1="12" color="7" dr2="10" visible="1"/>
+    <pdd index="22" dr1="12" color="7" dr2="3" visible="1"/>
+    <pdd index="23" dr1="3" color="7" dr2="13" visible="1"/>
+    <pdd index="24" dr1="10" color="7" dr2="13" visible="1"/>
+    <pdd index="25" dr1="13" color="7" dr2="11" visible="1"/>
+    <ppv2 index="26" pt_to_translate="21" pt1="22" color="7" visible="1" pt2="25" pos="1"/>
+    <ppv2 index="27" pt_to_translate="22" pt1="22" color="7" visible="1" pt2="25" pos="1"/>
+    <ppv2 index="28" pt_to_translate="23" pt1="22" color="7" visible="1" pt2="25" pos="1"/>
+    <ppv2 index="29" pt_to_translate="24" pt1="22" color="7" visible="1" pt2="25" pos="1"/>
+    <pdd index="30" dr1="14" color="7" dr2="3" visible="1"/>
+  </points>
+  <auxiliary_lines>
+    <dpx index="1" color="8" visible="1" pos="0" cr="0" pt="1"/>
+    <dpy index="2" color="8" visible="1" pos="0" cr="0" pt="1"/>
+    <ddv index="3" param_dist="1" dr="1" color="8" visible="1" pos="0"/>
+    <ddv index="4" param_dist="2" dr="2" color="8" visible="1" pos="0"/>
+    <ddv index="5" param_dist="3" dr="1" color="8" visible="1" pos="0"/>
+    <ddv index="6" param_dist="4" dr="-5" color="8" visible="1" pos="0"/>
+    <ddv index="7" param_dist="5" dr="2" color="8" visible="1" pos="0"/>
+    <ddv index="8" param_dist="6" dr="-7" color="8" visible="1" pos="0"/>
+    <dpx index="9" color="5" visible="1" pos="0" cr="0" pt="16"/>
+    <ddv index="10" param_dist="32" dr="-9" color="5" visible="1" pos="0"/>
+    <ddv index="11" param_dist="33" dr="9" color="5" visible="1" pos="0"/>
+    <ddv index="12" param_dist="45" dr="4" color="5" visible="1" pos="0"/>
+    <ddv index="13" param_dist="46" dr="12" color="5" visible="1" pos="0"/>
+    <ddv index="14" param_dist="61" dr="13" color="7" visible="1" pos="0"/>
+  </auxiliary_lines>
+  <circles/>
+  <polylines>
+    <suf material="86" base_alt_ln="12" color_poly_RGB="0" base_alt_type="0" color_surf_RGB="0" align_pattern="0" plane="0" output="0" ref_axe_orientation="0" fact_pattern="1" color_surf="8" type_pattern="2" ref_axe_end="4" visible="1" type="-35" thick2_sur="0" thick_ln="9" ext_ln="0" type_extr_begin="0" outline_type_ln="1" type_extr_end="0" ref_axe_begin="3" color_poly="8" index="1">
+      <over_length>0</over_length>
+      <over_hight>0</over_hight>
+      <over_width>0</over_width>
+      <round_length>0</round_length>
+      <round_hight>0</round_hight>
+      <round_width>0</round_width>
+      <processing_type>0</processing_type>
+      <element_type>0</element_type>
+      <element_calcul>0</element_calcul>
+      <element_value_h>0</element_value_h>
+      <element_value_v>0</element_value_v>
+      <element_cutPriority>0</element_cutPriority>
+      <layer_all>0</layer_all>
+      <layer_verdeckt_all>0</layer_verdeckt_all>
+      <layer_darstellung_all>0</layer_darstellung_all>
+      <match_flag>0</match_flag>
+      <elem_detail_type>0</elem_detail_type>
+      <line_def>
+        <ptline alt="7" pt="2"/>
+        <ptline alt="8" pt="1"/>
+        <ptline alt="9" pt="3"/>
+        <ptline alt="10" pt="4"/>
+        <ptline alt="11" pt="2"/>
+      </line_def>
+    </suf>
+    <suf material="86" base_alt_ln="18" color_poly_RGB="0" base_alt_type="0" color_surf_RGB="0" align_pattern="0" plane="0" output="0" ref_axe_orientation="0" fact_pattern="1" color_surf="8" type_pattern="2" ref_axe_end="4" visible="1" type="-35" thick2_sur="0" thick_ln="9" ext_ln="0" type_extr_begin="0" outline_type_ln="1" type_extr_end="0" ref_axe_begin="3" color_poly="8" index="2">
+      <over_length>0</over_length>
+      <over_hight>0</over_hight>
+      <over_width>0</over_width>
+      <round_length>0</round_length>
+      <round_hight>0</round_hight>
+      <round_width>0</round_width>
+      <processing_type>0</processing_type>
+      <element_type>0</element_type>
+      <element_calcul>0</element_calcul>
+      <element_value_h>0</element_value_h>
+      <element_value_v>0</element_value_v>
+      <element_cutPriority>0</element_cutPriority>
+      <layer_all>0</layer_all>
+      <layer_verdeckt_all>0</layer_verdeckt_all>
+      <layer_darstellung_all>0</layer_darstellung_all>
+      <match_flag>0</match_flag>
+      <elem_detail_type>0</elem_detail_type>
+      <line_def>
+        <ptline alt="13" pt="7"/>
+        <ptline alt="14" pt="6"/>
+        <ptline alt="15" pt="8"/>
+        <ptline alt="16" pt="9"/>
+        <ptline alt="17" pt="7"/>
+      </line_def>
+    </suf>
+    <suf material="86" base_alt_ln="24" color_poly_RGB="0" base_alt_type="0" color_surf_RGB="0" align_pattern="0" plane="0" output="0" ref_axe_orientation="0" fact_pattern="1" color_surf="8" type_pattern="2" ref_axe_end="11" visible="1" type="-35" thick2_sur="0" thick_ln="9" ext_ln="0" type_extr_begin="0" outline_type_ln="1" type_extr_end="0" ref_axe_begin="10" color_poly="8" index="3">
+      <over_length>0</over_length>
+      <over_hight>0</over_hight>
+      <over_width>0</over_width>
+      <round_length>0</round_length>
+      <round_hight>0</round_hight>
+      <round_width>0</round_width>
+      <processing_type>0</processing_type>
+      <element_type>0</element_type>
+      <element_calcul>0</element_calcul>
+      <element_value_h>0</element_value_h>
+      <element_value_v>0</element_value_v>
+      <element_cutPriority>0</element_cutPriority>
+      <layer_all>0</layer_all>
+      <layer_verdeckt_all>0</layer_verdeckt_all>
+      <layer_darstellung_all>0</layer_darstellung_all>
+      <match_flag>0</match_flag>
+      <elem_detail_type>0</elem_detail_type>
+      <line_def>
+        <ptline alt="19" pt="10"/>
+        <ptline alt="20" pt="11"/>
+        <ptline alt="21" pt="7"/>
+        <ptline alt="22" pt="4"/>
+        <ptline alt="23" pt="10"/>
+      </line_def>
+    </suf>
+    <suf material="86" base_alt_ln="30" color_poly_RGB="0" base_alt_type="0" color_surf_RGB="0" align_pattern="0" plane="0" output="0" ref_axe_orientation="0" fact_pattern="1" color_surf="8" type_pattern="2" ref_axe_end="11" visible="1" type="-35" thick2_sur="0" thick_ln="9" ext_ln="0" type_extr_begin="0" outline_type_ln="1" type_extr_end="0" ref_axe_begin="10" color_poly="8" index="4">
+      <over_length>0</over_length>
+      <over_hight>0</over_hight>
+      <over_width>0</over_width>
+      <round_length>0</round_length>
+      <round_hight>0</round_hight>
+      <round_width>0</round_width>
+      <processing_type>0</processing_type>
+      <element_type>0</element_type>
+      <element_calcul>0</element_calcul>
+      <element_value_h>0</element_value_h>
+      <element_value_v>0</element_value_v>
+      <element_cutPriority>0</element_cutPriority>
+      <layer_all>0</layer_all>
+      <layer_verdeckt_all>0</layer_verdeckt_all>
+      <layer_darstellung_all>0</layer_darstellung_all>
+      <match_flag>0</match_flag>
+      <elem_detail_type>0</elem_detail_type>
+      <line_def>
+        <ptline alt="25" pt="14"/>
+        <ptline alt="26" pt="15"/>
+        <ptline alt="27" pt="13"/>
+        <ptline alt="28" pt="12"/>
+        <ptline alt="29" pt="14"/>
+      </line_def>
+    </suf>
+    <suf material="86" base_alt_ln="40" color_poly_RGB="0" base_alt_type="0" color_surf_RGB="0" align_pattern="0" plane="0" output="0" ref_axe_orientation="0" fact_pattern="1" color_surf="8" type_pattern="2" ref_axe_end="19" visible="1" type="-35" thick2_sur="0" thick_ln="9" ext_ln="0" type_extr_begin="0" outline_type_ln="1" type_extr_end="0" ref_axe_begin="18" color_poly="8" index="5">
+      <over_length>0</over_length>
+      <over_hight>0</over_hight>
+      <over_width>0</over_width>
+      <round_length>0</round_length>
+      <round_hight>0</round_hight>
+      <round_width>0</round_width>
+      <processing_type>0</processing_type>
+      <element_type>0</element_type>
+      <element_calcul>0</element_calcul>
+      <element_value_h>0</element_value_h>
+      <element_value_v>0</element_value_v>
+      <element_cutPriority>0</element_cutPriority>
+      <layer_all>0</layer_all>
+      <layer_verdeckt_all>0</layer_verdeckt_all>
+      <layer_darstellung_all>0</layer_darstellung_all>
+      <match_flag>0</match_flag>
+      <elem_detail_type>0</elem_detail_type>
+      <line_def>
+        <ptline alt="35" pt="17"/>
+        <ptline alt="36" pt="18"/>
+        <ptline alt="37" pt="19"/>
+        <ptline alt="38" pt="20"/>
+        <ptline alt="39" pt="17"/>
+      </line_def>
+    </suf>
+    <suf material="86" base_alt_ln="54" color_poly_RGB="0" base_alt_type="0" color_surf_RGB="0" align_pattern="0" plane="0" output="0" ref_axe_orientation="0" fact_pattern="1" color_surf="8" type_pattern="2" ref_axe_end="21" visible="1" type="-35" thick2_sur="0" thick_ln="9" ext_ln="0" type_extr_begin="0" outline_type_ln="1" type_extr_end="0" ref_axe_begin="22" color_poly="8" index="6">
+      <over_length>0</over_length>
+      <over_hight>0</over_hight>
+      <over_width>0</over_width>
+      <round_length>0</round_length>
+      <round_hight>0</round_hight>
+      <round_width>0</round_width>
+      <processing_type>0</processing_type>
+      <element_type>0</element_type>
+      <element_calcul>0</element_calcul>
+      <element_value_h>0</element_value_h>
+      <element_value_v>0</element_value_v>
+      <element_cutPriority>0</element_cutPriority>
+      <layer_all>0</layer_all>
+      <layer_verdeckt_all>0</layer_verdeckt_all>
+      <layer_darstellung_all>0</layer_darstellung_all>
+      <match_flag>0</match_flag>
+      <elem_detail_type>0</elem_detail_type>
+      <line_def>
+        <ptline alt="49" pt="21"/>
+        <ptline alt="50" pt="22"/>
+        <ptline alt="51" pt="23"/>
+        <ptline alt="52" pt="24"/>
+        <ptline alt="53" pt="21"/>
+      </line_def>
+    </suf>
+    <suf material="86" base_alt_ln="60" color_poly_RGB="0" base_alt_type="0" color_surf_RGB="0" align_pattern="0" plane="0" output="0" ref_axe_orientation="0" fact_pattern="1" color_surf="8" type_pattern="2" ref_axe_end="21" visible="1" type="-35" thick2_sur="0" thick_ln="9" ext_ln="0" type_extr_begin="0" outline_type_ln="1" type_extr_end="0" ref_axe_begin="22" color_poly="8" index="7">
+      <over_length>0</over_length>
+      <over_hight>0</over_hight>
+      <over_width>0</over_width>
+      <round_length>0</round_length>
+      <round_hight>0</round_hight>
+      <round_width>0</round_width>
+      <processing_type>0</processing_type>
+      <element_type>0</element_type>
+      <element_calcul>0</element_calcul>
+      <element_value_h>0</element_value_h>
+      <element_value_v>0</element_value_v>
+      <element_cutPriority>0</element_cutPriority>
+      <layer_all>0</layer_all>
+      <layer_verdeckt_all>0</layer_verdeckt_all>
+      <layer_darstellung_all>0</layer_darstellung_all>
+      <match_flag>0</match_flag>
+      <elem_detail_type>0</elem_detail_type>
+      <line_def>
+        <ptline alt="55" pt="26"/>
+        <ptline alt="56" pt="27"/>
+        <ptline alt="57" pt="28"/>
+        <ptline alt="58" pt="29"/>
+        <ptline alt="59" pt="26"/>
+      </line_def>
+    </suf>
+  </polylines>
+  <texts>
+    <tque param="1" index="1" col_view="15" range_view="1">
+      <txt_traduction>
+        <txt data="TFB beam width" lang="FR"/>
+        <txt data="TFB beam width" lang="AL"/>
+        <txt data="TFB beam width" lang="AN"/>
+        <txt data="TFB beam width" lang="SP"/>
+        <txt data="TFB beam width" lang="IT"/>
+        <txt data="TFB beam width" lang="CZ"/>
+        <txt data="TFB beam width" lang="OO"/>
+      </txt_traduction>
+    </tque>
+    <tque param="3" index="2" col_view="15" range_view="2">
+      <txt_traduction>
+        <txt data="TFB Height" lang="FR"/>
+        <txt data="TFB Height" lang="AL"/>
+        <txt data="TFB Height" lang="AN"/>
+        <txt data="TFB Height" lang="SP"/>
+        <txt data="TFB Height" lang="IT"/>
+        <txt data="TFB Height" lang="CZ"/>
+        <txt data="TFB Height" lang="OO"/>
+      </txt_traduction>
+    </tque>
+    <tque param="5" index="3" col_view="15" range_view="3">
+      <txt_traduction>
+        <txt data="TFB Width" lang="FR"/>
+        <txt data="TFB Width" lang="AL"/>
+        <txt data="TFB Width" lang="AN"/>
+        <txt data="TFB Width" lang="SP"/>
+        <txt data="TFB Width" lang="IT"/>
+        <txt data="TFB Width" lang="CZ"/>
+        <txt data="TFB Width" lang="OO"/>
+      </txt_traduction>
+    </tque>
+    <tque param="12" index="4" col_view="15" range_view="4">
+      <txt_traduction>
+        <txt data="TFB beam height" lang="FR"/>
+        <txt data="TFB beam height" lang="AL"/>
+        <txt data="TFB beam height" lang="AN"/>
+        <txt data="TFB beam height" lang="SP"/>
+        <txt data="TFB beam height" lang="IT"/>
+        <txt data="TFB beam height" lang="CZ"/>
+        <txt data="TFB beam height" lang="OO"/>
+      </txt_traduction>
+    </tque>
+    <tque param="34" index="5" col_view="15" range_view="5">
+      <txt_traduction>
+        <txt data="Number of divisions" lang="FR"/>
+        <txt data="Number of divisions" lang="AL"/>
+        <txt data="Number of divisions" lang="AN"/>
+        <txt data="Number of divisions" lang="SP"/>
+        <txt data="Number of divisions" lang="IT"/>
+        <txt data="Number of divisions" lang="CZ"/>
+        <txt data="Number of divisions" lang="OO"/>
+      </txt_traduction>
+    </tque>
+    <tque param="41" index="6" col_view="15" range_view="6">
+      <txt_traduction>
+        <txt data="Internal width" lang="FR"/>
+        <txt data="Internal width" lang="AL"/>
+        <txt data="Internal width" lang="AN"/>
+        <txt data="Internal width" lang="SP"/>
+        <txt data="Internal width" lang="IT"/>
+        <txt data="Internal width" lang="CZ"/>
+        <txt data="Internal width" lang="OO"/>
+      </txt_traduction>
+    </tque>
+    <tque param="42" index="7" col_view="15" range_view="6">
+      <txt_traduction>
+        <txt data="Internal height" lang="FR"/>
+        <txt data="Internal height" lang="AL"/>
+        <txt data="Internal height" lang="AN"/>
+        <txt data="Internal height" lang="SP"/>
+        <txt data="Internal height" lang="IT"/>
+        <txt data="Internal height" lang="CZ"/>
+        <txt data="Internal height" lang="OO"/>
+      </txt_traduction>
+    </tque>
+    <tque param="43" index="8" col_view="15" range_view="6">
+      <txt_traduction>
+        <txt data="Distance between divison beams" lang="FR"/>
+        <txt data="Distance between divison beams" lang="AL"/>
+        <txt data="Distance between divison beams" lang="AN"/>
+        <txt data="Distance between divison beams" lang="SP"/>
+        <txt data="Distance between divison beams" lang="IT"/>
+        <txt data="Distance between divison beams" lang="CZ"/>
+        <txt data="Distance between divison beams" lang="OO"/>
+      </txt_traduction>
+    </tque>
+    <tque param="44" index="9" col_view="15" range_view="7">
+      <txt_traduction>
+        <txt data="First divison beam distance" lang="FR"/>
+        <txt data="First divison beam distance" lang="AL"/>
+        <txt data="First divison beam distance" lang="AN"/>
+        <txt data="First divison beam distance" lang="SP"/>
+        <txt data="First divison beam distance" lang="IT"/>
+        <txt data="First divison beam distance" lang="CZ"/>
+        <txt data="First divison beam distance" lang="OO"/>
+      </txt_traduction>
+    </tque>
+  </texts>
+  <dimensions/>
+  <node/>
+  <EndtypesBranch>
+    <DovetailTenon Id="4" Name="QA-28-60-50-0-40">
+      <Form>Conical</Form>
+      <DovetailType>RoundedFromMachine</DovetailType>
+      <WidthMode>WidthTopAndBottom</WidthMode>
+      <HeightMode>BackCut</HeightMode>
+      <Direction>Height</Direction>
+      <Relation>Height</Relation>
+      <Reference>Original</Reference>
+      <FlankAngleMode>FromMachine</FlankAngleMode>
+      <DovetailPocketType>PullOut</DovetailPocketType>
+      <HousingOverMeasureMode>LikeMortise</HousingOverMeasureMode>
+      <HousingForm>Rounded</HousingForm>
+      <CenteringMode>Center</CenteringMode>
+      <DoubleDovetailMode>DistanceCenter</DoubleDovetailMode>
+      <WidthBottom>50</WidthBottom>
+      <WidthTop>60</WidthTop>
+      <Width>0</Width>
+      <BackCutLeft>0</BackCutLeft>
+      <BackCutRight>0</BackCutRight>
+      <DovetailRadius>25</DovetailRadius>
+      <MiddleFlattening>0</MiddleFlattening>
+      <ConeAngle>0</ConeAngle>
+      <BackCutTop>0</BackCutTop>
+      <BackCutBottom>40</BackCutBottom>
+      <Height>0</Height>
+      <Length>28</Length>
+      <FlankAngle>15</FlankAngle>
+      <DovetailPocketOverMeasure>0</DovetailPocketOverMeasure>
+      <DovetailPocketOffsetBottom>10</DovetailPocketOffsetBottom>
+      <HousingDepth>0</HousingDepth>
+      <HousingOverMeasureDepth>0</HousingOverMeasureDepth>
+      <HousingTop>0</HousingTop>
+      <HousingBottom>0</HousingBottom>
+      <HousingLeft>0</HousingLeft>
+      <HousingRight>0</HousingRight>
+      <HousingRadius>10</HousingRadius>
+      <CenteringBorderOffset>0</CenteringBorderOffset>
+      <CenteringLeft>0</CenteringLeft>
+      <CenteringRight>0</CenteringRight>
+      <CenteringCenter>0</CenteringCenter>
+      <DoubleDovetailDistanceCenter>0</DoubleDovetailDistanceCenter>
+      <DoubleDovetailDistance>0</DoubleDovetailDistance>
+      <IsDovetailThrough>false</IsDovetailThrough>
+      <IsHousingPeripherally>false</IsHousingPeripherally>
+    </DovetailTenon>
+    <DovetailDado Id="5" Name="Rain">
+      <WidthDefinition>Width</WidthDefinition>
+      <Direction>Height</Direction>
+      <Relation>Height</Relation>
+      <Reference>Original</Reference>
+      <FlankAngleMode>Angle</FlankAngleMode>
+      <CenteringMode>Center</CenteringMode>
+      <Width>30</Width>
+      <BackCutLeft>0</BackCutLeft>
+      <BackCutRight>0</BackCutRight>
+      <Depth>28</Depth>
+      <Angle>10.1247</Angle>
+      <CenteringLeft>0</CenteringLeft>
+      <CenteringRight>0</CenteringRight>
+      <CenteringCenter>0</CenteringCenter>
+    </DovetailDado>
+    <Tenon Id="6" Name="Tenon-60-40-20-0_H">
+      <LengthMode>Value</LengthMode>
+      <WidthMode>Value</WidthMode>
+      <Direction>Height</Direction>
+      <Relation>Height</Relation>
+      <Reference>Original</Reference>
+      <PositiveHaunchOverMeasureMode>LikeMortise</PositiveHaunchOverMeasureMode>
+      <NegativeHaunchOverMeasureMode>LikeMortise</NegativeHaunchOverMeasureMode>
+      <HousingOverMeasureMode>LikeMortise</HousingOverMeasureMode>
+      <HousingForm>Rounded</HousingForm>
+      <CenteringMode>Center</CenteringMode>
+      <DoubleTenonMode>DistanceCenter</DoubleTenonMode>
+      <DrillingsMode>None</DrillingsMode>
+      <DrillingsNumberMode>One</DrillingsNumberMode>
+      <OneDrillingPositionMode>Automatic</OneDrillingPositionMode>
+      <MinTwoDrillingsPositionMode>Automatic</MinTwoDrillingsPositionMode>
+      <DrillingDivisionMode>TenonDimensions</DrillingDivisionMode>
+      <DrillingExecutionMode>JustDrilling</DrillingExecutionMode>
+      <TenonForm>Rounded</TenonForm>
+      <ChamferType>None</ChamferType>
+      <ThroughExecutionMode>Angularly</ThroughExecutionMode>
+      <LengthValue>60</LengthValue>
+      <LengthPercent>0</LengthPercent>
+      <LengthDividend>0</LengthDividend>
+      <LengthDivisor>1</LengthDivisor>
+      <WidthValue>40</WidthValue>
+      <WidthPercent>0</WidthPercent>
+      <WidthDividend>0</WidthDividend>
+      <WidthDivisor>1</WidthDivisor>
+      <MortiseDepth>0</MortiseDepth>
+      <MortiseRunningDirection>0</MortiseRunningDirection>
+      <MortiseCrossingDirection>0</MortiseCrossingDirection>
+      <BackCutEdge>0</BackCutEdge>
+      <BackCutTop>20</BackCutTop>
+      <BackCutBottom>0</BackCutBottom>
+      <BackCutLeft>0</BackCutLeft>
+      <BackCutRight>0</BackCutRight>
+      <HaunchPosHeight>0</HaunchPosHeight>
+      <HaunchPosLength>0</HaunchPosLength>
+      <HaunchPosOverMeasureDepth>0</HaunchPosOverMeasureDepth>
+      <HaunchNegHeight>0</HaunchNegHeight>
+      <HaunchNegLength>0</HaunchNegLength>
+      <HaunchNegOverMeasureDepth>0</HaunchNegOverMeasureDepth>
+      <HousingLength>0</HousingLength>
+      <HousingOverMeasureDepth>0</HousingOverMeasureDepth>
+      <HousingTop>0</HousingTop>
+      <HousingBottom>0</HousingBottom>
+      <HousingLeft>0</HousingLeft>
+      <HousingRight>0</HousingRight>
+      <HousingRadius>0</HousingRadius>
+      <CenteringLeft>0</CenteringLeft>
+      <CenteringRight>0</CenteringRight>
+      <CenteringCenter>0</CenteringCenter>
+      <DoubleTenonDistanceCenter>0</DoubleTenonDistanceCenter>
+      <DoubleTenonDistance>0</DoubleTenonDistance>
+      <OneDrillingAngle>0</OneDrillingAngle>
+      <OneDrillingX>0</OneDrillingX>
+      <OneDrillingY>0</OneDrillingY>
+      <MinTwoDrillingsX1>0</MinTwoDrillingsX1>
+      <MinTwoDrillingsX2>0</MinTwoDrillingsX2>
+      <MinTwoDrillingsY>0</MinTwoDrillingsY>
+      <DrillingOffset>0</DrillingOffset>
+      <JustDrillingDiameter>0</JustDrillingDiameter>
+      <DrillingAsAxeDiameter>0</DrillingAsAxeDiameter>
+      <TenonFormRadius>0</TenonFormRadius>
+      <ThroughOverLength>0</ThroughOverLength>
+      <ThrougArchValue>0</ThrougArchValue>
+      <ThrougFrontedValue>0</ThrougFrontedValue>
+      <NumberOfDrillings>2</NumberOfDrillings>
+      <IsDirectionAlignedToCounterpart>false</IsDirectionAlignedToCounterpart>
+      <IsBackCutPeripherally>false</IsBackCutPeripherally>
+      <IsBackCutRunningDirectionSymmetric>false</IsBackCutRunningDirectionSymmetric>
+      <IsBackCutCrossingDirectionSymmetric>true</IsBackCutCrossingDirectionSymmetric>
+      <IsHousingPeripherally>false</IsHousingPeripherally>
+      <GridTopDistance>0</GridTopDistance>
+      <GridBottomDistance>0</GridBottomDistance>
+      <GridLeftDistance>0</GridLeftDistance>
+      <GridRightDistance>0</GridRightDistance>
+      <GridDistanceToBeam>0</GridDistanceToBeam>
+      <IsGridDistancesAutomatically>true</IsGridDistancesAutomatically>
+      <IsDrillingTopRight>false</IsDrillingTopRight>
+      <IsDrillingTopCenter>false</IsDrillingTopCenter>
+      <IsDrillingTopLeft>false</IsDrillingTopLeft>
+      <IsDrillingCenterLeft>false</IsDrillingCenterLeft>
+      <IsDrillingCenterCenter>false</IsDrillingCenterCenter>
+      <IsDrillingCenterRight>false</IsDrillingCenterRight>
+      <IsDrillingBottomLeft>false</IsDrillingBottomLeft>
+      <IsDrillingBottomCenter>false</IsDrillingBottomCenter>
+      <IsDrillingBottomRight>false</IsDrillingBottomRight>
+      <StdVbaGuid>{00000000-0000-0000-0000-000000000000}</StdVbaGuid>
+    </Tenon>
+    <Tenon Id="7" Name="Tenon-60-40-20-0-20H">
+      <LengthMode>Value</LengthMode>
+      <WidthMode>Value</WidthMode>
+      <Direction>Height</Direction>
+      <Relation>Height</Relation>
+      <Reference>Original</Reference>
+      <PositiveHaunchOverMeasureMode>LikeMortise</PositiveHaunchOverMeasureMode>
+      <NegativeHaunchOverMeasureMode>LikeMortise</NegativeHaunchOverMeasureMode>
+      <HousingOverMeasureMode>LikeMortise</HousingOverMeasureMode>
+      <HousingForm>Rounded</HousingForm>
+      <CenteringMode>Center</CenteringMode>
+      <DoubleTenonMode>DistanceCenter</DoubleTenonMode>
+      <DrillingsMode>None</DrillingsMode>
+      <DrillingsNumberMode>One</DrillingsNumberMode>
+      <OneDrillingPositionMode>Automatic</OneDrillingPositionMode>
+      <MinTwoDrillingsPositionMode>Automatic</MinTwoDrillingsPositionMode>
+      <DrillingDivisionMode>TenonDimensions</DrillingDivisionMode>
+      <DrillingExecutionMode>JustDrilling</DrillingExecutionMode>
+      <TenonForm>Rounded</TenonForm>
+      <ChamferType>None</ChamferType>
+      <ThroughExecutionMode>Angularly</ThroughExecutionMode>
+      <LengthValue>60</LengthValue>
+      <LengthPercent>0</LengthPercent>
+      <LengthDividend>0</LengthDividend>
+      <LengthDivisor>1</LengthDivisor>
+      <WidthValue>40</WidthValue>
+      <WidthPercent>0</WidthPercent>
+      <WidthDividend>0</WidthDividend>
+      <WidthDivisor>1</WidthDivisor>
+      <MortiseDepth>10</MortiseDepth>
+      <MortiseRunningDirection>0</MortiseRunningDirection>
+      <MortiseCrossingDirection>0</MortiseCrossingDirection>
+      <BackCutEdge>0</BackCutEdge>
+      <BackCutTop>20</BackCutTop>
+      <BackCutBottom>0</BackCutBottom>
+      <BackCutLeft>0</BackCutLeft>
+      <BackCutRight>0</BackCutRight>
+      <HaunchPosHeight>0</HaunchPosHeight>
+      <HaunchPosLength>0</HaunchPosLength>
+      <HaunchPosOverMeasureDepth>0</HaunchPosOverMeasureDepth>
+      <HaunchNegHeight>0</HaunchNegHeight>
+      <HaunchNegLength>0</HaunchNegLength>
+      <HaunchNegOverMeasureDepth>0</HaunchNegOverMeasureDepth>
+      <HousingLength>0</HousingLength>
+      <HousingOverMeasureDepth>0</HousingOverMeasureDepth>
+      <HousingTop>0</HousingTop>
+      <HousingBottom>0</HousingBottom>
+      <HousingLeft>0</HousingLeft>
+      <HousingRight>0</HousingRight>
+      <HousingRadius>0</HousingRadius>
+      <CenteringLeft>0</CenteringLeft>
+      <CenteringRight>0</CenteringRight>
+      <CenteringCenter>20</CenteringCenter>
+      <DoubleTenonDistanceCenter>0</DoubleTenonDistanceCenter>
+      <DoubleTenonDistance>0</DoubleTenonDistance>
+      <OneDrillingAngle>0</OneDrillingAngle>
+      <OneDrillingX>0</OneDrillingX>
+      <OneDrillingY>0</OneDrillingY>
+      <MinTwoDrillingsX1>0</MinTwoDrillingsX1>
+      <MinTwoDrillingsX2>0</MinTwoDrillingsX2>
+      <MinTwoDrillingsY>0</MinTwoDrillingsY>
+      <DrillingOffset>0</DrillingOffset>
+      <JustDrillingDiameter>0</JustDrillingDiameter>
+      <DrillingAsAxeDiameter>0</DrillingAsAxeDiameter>
+      <TenonFormRadius>0</TenonFormRadius>
+      <ThroughOverLength>0</ThroughOverLength>
+      <ThrougArchValue>0</ThrougArchValue>
+      <ThrougFrontedValue>0</ThrougFrontedValue>
+      <NumberOfDrillings>2</NumberOfDrillings>
+      <IsDirectionAlignedToCounterpart>false</IsDirectionAlignedToCounterpart>
+      <IsBackCutPeripherally>false</IsBackCutPeripherally>
+      <IsBackCutRunningDirectionSymmetric>false</IsBackCutRunningDirectionSymmetric>
+      <IsBackCutCrossingDirectionSymmetric>true</IsBackCutCrossingDirectionSymmetric>
+      <IsHousingPeripherally>false</IsHousingPeripherally>
+      <GridTopDistance>0</GridTopDistance>
+      <GridBottomDistance>0</GridBottomDistance>
+      <GridLeftDistance>0</GridLeftDistance>
+      <GridRightDistance>0</GridRightDistance>
+      <GridDistanceToBeam>0</GridDistanceToBeam>
+      <IsGridDistancesAutomatically>true</IsGridDistancesAutomatically>
+      <IsDrillingTopRight>false</IsDrillingTopRight>
+      <IsDrillingTopCenter>false</IsDrillingTopCenter>
+      <IsDrillingTopLeft>false</IsDrillingTopLeft>
+      <IsDrillingCenterLeft>false</IsDrillingCenterLeft>
+      <IsDrillingCenterCenter>false</IsDrillingCenterCenter>
+      <IsDrillingCenterRight>false</IsDrillingCenterRight>
+      <IsDrillingBottomLeft>false</IsDrillingBottomLeft>
+      <IsDrillingBottomCenter>false</IsDrillingBottomCenter>
+      <IsDrillingBottomRight>false</IsDrillingBottomRight>
+      <StdVbaGuid>{00000000-0000-0000-0000-000000000000}</StdVbaGuid>
+    </Tenon>
+    <Tenon Id="8" Name="Tenon-60-40-20-0_L">
+      <LengthMode>Value</LengthMode>
+      <WidthMode>Value</WidthMode>
+      <Direction>Width</Direction>
+      <Relation>Width</Relation>
+      <Reference>Original</Reference>
+      <PositiveHaunchOverMeasureMode>LikeMortise</PositiveHaunchOverMeasureMode>
+      <NegativeHaunchOverMeasureMode>LikeMortise</NegativeHaunchOverMeasureMode>
+      <HousingOverMeasureMode>LikeMortise</HousingOverMeasureMode>
+      <HousingForm>Rounded</HousingForm>
+      <CenteringMode>Center</CenteringMode>
+      <DoubleTenonMode>DistanceCenter</DoubleTenonMode>
+      <DrillingsMode>None</DrillingsMode>
+      <DrillingsNumberMode>One</DrillingsNumberMode>
+      <OneDrillingPositionMode>Automatic</OneDrillingPositionMode>
+      <MinTwoDrillingsPositionMode>Automatic</MinTwoDrillingsPositionMode>
+      <DrillingDivisionMode>TenonDimensions</DrillingDivisionMode>
+      <DrillingExecutionMode>JustDrilling</DrillingExecutionMode>
+      <TenonForm>Rounded</TenonForm>
+      <ChamferType>None</ChamferType>
+      <ThroughExecutionMode>Angularly</ThroughExecutionMode>
+      <LengthValue>60</LengthValue>
+      <LengthPercent>0</LengthPercent>
+      <LengthDividend>0</LengthDividend>
+      <LengthDivisor>1</LengthDivisor>
+      <WidthValue>40</WidthValue>
+      <WidthPercent>0</WidthPercent>
+      <WidthDividend>0</WidthDividend>
+      <WidthDivisor>1</WidthDivisor>
+      <MortiseDepth>0</MortiseDepth>
+      <MortiseRunningDirection>0</MortiseRunningDirection>
+      <MortiseCrossingDirection>0</MortiseCrossingDirection>
+      <BackCutEdge>0</BackCutEdge>
+      <BackCutTop>20</BackCutTop>
+      <BackCutBottom>0</BackCutBottom>
+      <BackCutLeft>0</BackCutLeft>
+      <BackCutRight>0</BackCutRight>
+      <HaunchPosHeight>0</HaunchPosHeight>
+      <HaunchPosLength>0</HaunchPosLength>
+      <HaunchPosOverMeasureDepth>0</HaunchPosOverMeasureDepth>
+      <HaunchNegHeight>0</HaunchNegHeight>
+      <HaunchNegLength>0</HaunchNegLength>
+      <HaunchNegOverMeasureDepth>0</HaunchNegOverMeasureDepth>
+      <HousingLength>0</HousingLength>
+      <HousingOverMeasureDepth>0</HousingOverMeasureDepth>
+      <HousingTop>0</HousingTop>
+      <HousingBottom>0</HousingBottom>
+      <HousingLeft>0</HousingLeft>
+      <HousingRight>0</HousingRight>
+      <HousingRadius>0</HousingRadius>
+      <CenteringLeft>0</CenteringLeft>
+      <CenteringRight>0</CenteringRight>
+      <CenteringCenter>0</CenteringCenter>
+      <DoubleTenonDistanceCenter>0</DoubleTenonDistanceCenter>
+      <DoubleTenonDistance>0</DoubleTenonDistance>
+      <OneDrillingAngle>0</OneDrillingAngle>
+      <OneDrillingX>0</OneDrillingX>
+      <OneDrillingY>0</OneDrillingY>
+      <MinTwoDrillingsX1>0</MinTwoDrillingsX1>
+      <MinTwoDrillingsX2>0</MinTwoDrillingsX2>
+      <MinTwoDrillingsY>0</MinTwoDrillingsY>
+      <DrillingOffset>0</DrillingOffset>
+      <JustDrillingDiameter>0</JustDrillingDiameter>
+      <DrillingAsAxeDiameter>0</DrillingAsAxeDiameter>
+      <TenonFormRadius>0</TenonFormRadius>
+      <ThroughOverLength>0</ThroughOverLength>
+      <ThrougArchValue>0</ThrougArchValue>
+      <ThrougFrontedValue>0</ThrougFrontedValue>
+      <NumberOfDrillings>2</NumberOfDrillings>
+      <IsDirectionAlignedToCounterpart>false</IsDirectionAlignedToCounterpart>
+      <IsBackCutPeripherally>false</IsBackCutPeripherally>
+      <IsBackCutRunningDirectionSymmetric>false</IsBackCutRunningDirectionSymmetric>
+      <IsBackCutCrossingDirectionSymmetric>true</IsBackCutCrossingDirectionSymmetric>
+      <IsHousingPeripherally>false</IsHousingPeripherally>
+      <GridTopDistance>0</GridTopDistance>
+      <GridBottomDistance>0</GridBottomDistance>
+      <GridLeftDistance>0</GridLeftDistance>
+      <GridRightDistance>0</GridRightDistance>
+      <GridDistanceToBeam>0</GridDistanceToBeam>
+      <IsGridDistancesAutomatically>true</IsGridDistancesAutomatically>
+      <IsDrillingTopRight>false</IsDrillingTopRight>
+      <IsDrillingTopCenter>false</IsDrillingTopCenter>
+      <IsDrillingTopLeft>false</IsDrillingTopLeft>
+      <IsDrillingCenterLeft>false</IsDrillingCenterLeft>
+      <IsDrillingCenterCenter>false</IsDrillingCenterCenter>
+      <IsDrillingCenterRight>false</IsDrillingCenterRight>
+      <IsDrillingBottomLeft>false</IsDrillingBottomLeft>
+      <IsDrillingBottomCenter>false</IsDrillingBottomCenter>
+      <IsDrillingBottomRight>false</IsDrillingBottomRight>
+      <StdVbaGuid>{00000000-0000-0000-0000-000000000000}</StdVbaGuid>
+    </Tenon>
+    <Tenon Id="9" Name="Tenon-60-40-20-0-20L">
+      <LengthMode>Value</LengthMode>
+      <WidthMode>Value</WidthMode>
+      <Direction>Width</Direction>
+      <Relation>Width</Relation>
+      <Reference>Original</Reference>
+      <PositiveHaunchOverMeasureMode>LikeMortise</PositiveHaunchOverMeasureMode>
+      <NegativeHaunchOverMeasureMode>LikeMortise</NegativeHaunchOverMeasureMode>
+      <HousingOverMeasureMode>LikeMortise</HousingOverMeasureMode>
+      <HousingForm>Rounded</HousingForm>
+      <CenteringMode>Center</CenteringMode>
+      <DoubleTenonMode>DistanceCenter</DoubleTenonMode>
+      <DrillingsMode>None</DrillingsMode>
+      <DrillingsNumberMode>One</DrillingsNumberMode>
+      <OneDrillingPositionMode>Automatic</OneDrillingPositionMode>
+      <MinTwoDrillingsPositionMode>Automatic</MinTwoDrillingsPositionMode>
+      <DrillingDivisionMode>TenonDimensions</DrillingDivisionMode>
+      <DrillingExecutionMode>JustDrilling</DrillingExecutionMode>
+      <TenonForm>Rounded</TenonForm>
+      <ChamferType>None</ChamferType>
+      <ThroughExecutionMode>Angularly</ThroughExecutionMode>
+      <LengthValue>60</LengthValue>
+      <LengthPercent>0</LengthPercent>
+      <LengthDividend>0</LengthDividend>
+      <LengthDivisor>1</LengthDivisor>
+      <WidthValue>40</WidthValue>
+      <WidthPercent>0</WidthPercent>
+      <WidthDividend>0</WidthDividend>
+      <WidthDivisor>1</WidthDivisor>
+      <MortiseDepth>10</MortiseDepth>
+      <MortiseRunningDirection>0</MortiseRunningDirection>
+      <MortiseCrossingDirection>0</MortiseCrossingDirection>
+      <BackCutEdge>0</BackCutEdge>
+      <BackCutTop>20</BackCutTop>
+      <BackCutBottom>0</BackCutBottom>
+      <BackCutLeft>0</BackCutLeft>
+      <BackCutRight>0</BackCutRight>
+      <HaunchPosHeight>0</HaunchPosHeight>
+      <HaunchPosLength>0</HaunchPosLength>
+      <HaunchPosOverMeasureDepth>0</HaunchPosOverMeasureDepth>
+      <HaunchNegHeight>0</HaunchNegHeight>
+      <HaunchNegLength>0</HaunchNegLength>
+      <HaunchNegOverMeasureDepth>0</HaunchNegOverMeasureDepth>
+      <HousingLength>0</HousingLength>
+      <HousingOverMeasureDepth>0</HousingOverMeasureDepth>
+      <HousingTop>0</HousingTop>
+      <HousingBottom>0</HousingBottom>
+      <HousingLeft>0</HousingLeft>
+      <HousingRight>0</HousingRight>
+      <HousingRadius>0</HousingRadius>
+      <CenteringLeft>0</CenteringLeft>
+      <CenteringRight>0</CenteringRight>
+      <CenteringCenter>20</CenteringCenter>
+      <DoubleTenonDistanceCenter>0</DoubleTenonDistanceCenter>
+      <DoubleTenonDistance>0</DoubleTenonDistance>
+      <OneDrillingAngle>0</OneDrillingAngle>
+      <OneDrillingX>0</OneDrillingX>
+      <OneDrillingY>0</OneDrillingY>
+      <MinTwoDrillingsX1>0</MinTwoDrillingsX1>
+      <MinTwoDrillingsX2>0</MinTwoDrillingsX2>
+      <MinTwoDrillingsY>0</MinTwoDrillingsY>
+      <DrillingOffset>0</DrillingOffset>
+      <JustDrillingDiameter>0</JustDrillingDiameter>
+      <DrillingAsAxeDiameter>0</DrillingAsAxeDiameter>
+      <TenonFormRadius>0</TenonFormRadius>
+      <ThroughOverLength>0</ThroughOverLength>
+      <ThrougArchValue>0</ThrougArchValue>
+      <ThrougFrontedValue>0</ThrougFrontedValue>
+      <NumberOfDrillings>2</NumberOfDrillings>
+      <IsDirectionAlignedToCounterpart>false</IsDirectionAlignedToCounterpart>
+      <IsBackCutPeripherally>false</IsBackCutPeripherally>
+      <IsBackCutRunningDirectionSymmetric>false</IsBackCutRunningDirectionSymmetric>
+      <IsBackCutCrossingDirectionSymmetric>true</IsBackCutCrossingDirectionSymmetric>
+      <IsHousingPeripherally>false</IsHousingPeripherally>
+      <GridTopDistance>0</GridTopDistance>
+      <GridBottomDistance>0</GridBottomDistance>
+      <GridLeftDistance>0</GridLeftDistance>
+      <GridRightDistance>0</GridRightDistance>
+      <GridDistanceToBeam>0</GridDistanceToBeam>
+      <IsGridDistancesAutomatically>true</IsGridDistancesAutomatically>
+      <IsDrillingTopRight>false</IsDrillingTopRight>
+      <IsDrillingTopCenter>false</IsDrillingTopCenter>
+      <IsDrillingTopLeft>false</IsDrillingTopLeft>
+      <IsDrillingCenterLeft>false</IsDrillingCenterLeft>
+      <IsDrillingCenterCenter>false</IsDrillingCenterCenter>
+      <IsDrillingCenterRight>false</IsDrillingCenterRight>
+      <IsDrillingBottomLeft>false</IsDrillingBottomLeft>
+      <IsDrillingBottomCenter>false</IsDrillingBottomCenter>
+      <IsDrillingBottomRight>false</IsDrillingBottomRight>
+      <StdVbaGuid>{00000000-0000-0000-0000-000000000000}</StdVbaGuid>
+    </Tenon>
+    <Tenon Id="10" Name="Tenon-60-40-20_H">
+      <LengthMode>Value</LengthMode>
+      <WidthMode>Value</WidthMode>
+      <Direction>Height</Direction>
+      <Relation>Height</Relation>
+      <Reference>Original</Reference>
+      <PositiveHaunchOverMeasureMode>LikeMortise</PositiveHaunchOverMeasureMode>
+      <NegativeHaunchOverMeasureMode>LikeMortise</NegativeHaunchOverMeasureMode>
+      <HousingOverMeasureMode>LikeMortise</HousingOverMeasureMode>
+      <HousingForm>Rounded</HousingForm>
+      <CenteringMode>Center</CenteringMode>
+      <DoubleTenonMode>DistanceCenter</DoubleTenonMode>
+      <DrillingsMode>None</DrillingsMode>
+      <DrillingsNumberMode>One</DrillingsNumberMode>
+      <OneDrillingPositionMode>Automatic</OneDrillingPositionMode>
+      <MinTwoDrillingsPositionMode>Automatic</MinTwoDrillingsPositionMode>
+      <DrillingDivisionMode>TenonDimensions</DrillingDivisionMode>
+      <DrillingExecutionMode>JustDrilling</DrillingExecutionMode>
+      <TenonForm>Rounded</TenonForm>
+      <ChamferType>None</ChamferType>
+      <ThroughExecutionMode>Angularly</ThroughExecutionMode>
+      <LengthValue>60</LengthValue>
+      <LengthPercent>0</LengthPercent>
+      <LengthDividend>0</LengthDividend>
+      <LengthDivisor>1</LengthDivisor>
+      <WidthValue>40</WidthValue>
+      <WidthPercent>0</WidthPercent>
+      <WidthDividend>0</WidthDividend>
+      <WidthDivisor>1</WidthDivisor>
+      <MortiseDepth>0</MortiseDepth>
+      <MortiseRunningDirection>0</MortiseRunningDirection>
+      <MortiseCrossingDirection>0</MortiseCrossingDirection>
+      <BackCutEdge>0</BackCutEdge>
+      <BackCutTop>20</BackCutTop>
+      <BackCutBottom>20</BackCutBottom>
+      <BackCutLeft>0</BackCutLeft>
+      <BackCutRight>0</BackCutRight>
+      <HaunchPosHeight>0</HaunchPosHeight>
+      <HaunchPosLength>0</HaunchPosLength>
+      <HaunchPosOverMeasureDepth>0</HaunchPosOverMeasureDepth>
+      <HaunchNegHeight>0</HaunchNegHeight>
+      <HaunchNegLength>0</HaunchNegLength>
+      <HaunchNegOverMeasureDepth>0</HaunchNegOverMeasureDepth>
+      <HousingLength>0</HousingLength>
+      <HousingOverMeasureDepth>0</HousingOverMeasureDepth>
+      <HousingTop>0</HousingTop>
+      <HousingBottom>0</HousingBottom>
+      <HousingLeft>0</HousingLeft>
+      <HousingRight>0</HousingRight>
+      <HousingRadius>0</HousingRadius>
+      <CenteringLeft>0</CenteringLeft>
+      <CenteringRight>0</CenteringRight>
+      <CenteringCenter>0</CenteringCenter>
+      <DoubleTenonDistanceCenter>0</DoubleTenonDistanceCenter>
+      <DoubleTenonDistance>0</DoubleTenonDistance>
+      <OneDrillingAngle>0</OneDrillingAngle>
+      <OneDrillingX>0</OneDrillingX>
+      <OneDrillingY>0</OneDrillingY>
+      <MinTwoDrillingsX1>0</MinTwoDrillingsX1>
+      <MinTwoDrillingsX2>0</MinTwoDrillingsX2>
+      <MinTwoDrillingsY>0</MinTwoDrillingsY>
+      <DrillingOffset>0</DrillingOffset>
+      <JustDrillingDiameter>0</JustDrillingDiameter>
+      <DrillingAsAxeDiameter>0</DrillingAsAxeDiameter>
+      <TenonFormRadius>0</TenonFormRadius>
+      <ThroughOverLength>0</ThroughOverLength>
+      <ThrougArchValue>0</ThrougArchValue>
+      <ThrougFrontedValue>0</ThrougFrontedValue>
+      <NumberOfDrillings>2</NumberOfDrillings>
+      <IsDirectionAlignedToCounterpart>false</IsDirectionAlignedToCounterpart>
+      <IsBackCutPeripherally>false</IsBackCutPeripherally>
+      <IsBackCutRunningDirectionSymmetric>true</IsBackCutRunningDirectionSymmetric>
+      <IsBackCutCrossingDirectionSymmetric>true</IsBackCutCrossingDirectionSymmetric>
+      <IsHousingPeripherally>false</IsHousingPeripherally>
+      <GridTopDistance>0</GridTopDistance>
+      <GridBottomDistance>0</GridBottomDistance>
+      <GridLeftDistance>0</GridLeftDistance>
+      <GridRightDistance>0</GridRightDistance>
+      <GridDistanceToBeam>0</GridDistanceToBeam>
+      <IsGridDistancesAutomatically>true</IsGridDistancesAutomatically>
+      <IsDrillingTopRight>false</IsDrillingTopRight>
+      <IsDrillingTopCenter>false</IsDrillingTopCenter>
+      <IsDrillingTopLeft>false</IsDrillingTopLeft>
+      <IsDrillingCenterLeft>false</IsDrillingCenterLeft>
+      <IsDrillingCenterCenter>false</IsDrillingCenterCenter>
+      <IsDrillingCenterRight>false</IsDrillingCenterRight>
+      <IsDrillingBottomLeft>false</IsDrillingBottomLeft>
+      <IsDrillingBottomCenter>false</IsDrillingBottomCenter>
+      <IsDrillingBottomRight>false</IsDrillingBottomRight>
+      <StdVbaGuid>{00000000-0000-0000-0000-000000000000}</StdVbaGuid>
+    </Tenon>
+    <Lengthening Id="11" Name="allongement10">
+      <IsLengthening>true</IsLengthening>
+      <IsFronted>true</IsFronted>
+      <IsRectangularCut>true</IsRectangularCut>
+      <IsThrough>true</IsThrough>
+      <Shortening>1</Shortening>
+      <Lengthening>10</Lengthening>
+      <ExtraDepth>0</ExtraDepth>
+      <ExtraWidth>0</ExtraWidth>
+      <ExtraLength>5</ExtraLength>
+    </Lengthening>
+    <Tenon Id="12" Name="tenon-60-40-20_L">
+      <LengthMode>Value</LengthMode>
+      <WidthMode>Value</WidthMode>
+      <Direction>Width</Direction>
+      <Relation>Width</Relation>
+      <Reference>Original</Reference>
+      <PositiveHaunchOverMeasureMode>LikeMortise</PositiveHaunchOverMeasureMode>
+      <NegativeHaunchOverMeasureMode>LikeMortise</NegativeHaunchOverMeasureMode>
+      <HousingOverMeasureMode>LikeMortise</HousingOverMeasureMode>
+      <HousingForm>Rounded</HousingForm>
+      <CenteringMode>Center</CenteringMode>
+      <DoubleTenonMode>DistanceCenter</DoubleTenonMode>
+      <DrillingsMode>None</DrillingsMode>
+      <DrillingsNumberMode>One</DrillingsNumberMode>
+      <OneDrillingPositionMode>Automatic</OneDrillingPositionMode>
+      <MinTwoDrillingsPositionMode>Automatic</MinTwoDrillingsPositionMode>
+      <DrillingDivisionMode>TenonDimensions</DrillingDivisionMode>
+      <DrillingExecutionMode>JustDrilling</DrillingExecutionMode>
+      <TenonForm>Rounded</TenonForm>
+      <ChamferType>None</ChamferType>
+      <ThroughExecutionMode>Angularly</ThroughExecutionMode>
+      <LengthValue>60</LengthValue>
+      <LengthPercent>0</LengthPercent>
+      <LengthDividend>0</LengthDividend>
+      <LengthDivisor>1</LengthDivisor>
+      <WidthValue>40</WidthValue>
+      <WidthPercent>0</WidthPercent>
+      <WidthDividend>0</WidthDividend>
+      <WidthDivisor>1</WidthDivisor>
+      <MortiseDepth>0</MortiseDepth>
+      <MortiseRunningDirection>0</MortiseRunningDirection>
+      <MortiseCrossingDirection>0</MortiseCrossingDirection>
+      <BackCutEdge>0</BackCutEdge>
+      <BackCutTop>20</BackCutTop>
+      <BackCutBottom>20</BackCutBottom>
+      <BackCutLeft>0</BackCutLeft>
+      <BackCutRight>0</BackCutRight>
+      <HaunchPosHeight>0</HaunchPosHeight>
+      <HaunchPosLength>0</HaunchPosLength>
+      <HaunchPosOverMeasureDepth>0</HaunchPosOverMeasureDepth>
+      <HaunchNegHeight>0</HaunchNegHeight>
+      <HaunchNegLength>0</HaunchNegLength>
+      <HaunchNegOverMeasureDepth>0</HaunchNegOverMeasureDepth>
+      <HousingLength>0</HousingLength>
+      <HousingOverMeasureDepth>0</HousingOverMeasureDepth>
+      <HousingTop>0</HousingTop>
+      <HousingBottom>0</HousingBottom>
+      <HousingLeft>0</HousingLeft>
+      <HousingRight>0</HousingRight>
+      <HousingRadius>0</HousingRadius>
+      <CenteringLeft>0</CenteringLeft>
+      <CenteringRight>0</CenteringRight>
+      <CenteringCenter>0</CenteringCenter>
+      <DoubleTenonDistanceCenter>0</DoubleTenonDistanceCenter>
+      <DoubleTenonDistance>0</DoubleTenonDistance>
+      <OneDrillingAngle>0</OneDrillingAngle>
+      <OneDrillingX>0</OneDrillingX>
+      <OneDrillingY>0</OneDrillingY>
+      <MinTwoDrillingsX1>0</MinTwoDrillingsX1>
+      <MinTwoDrillingsX2>0</MinTwoDrillingsX2>
+      <MinTwoDrillingsY>0</MinTwoDrillingsY>
+      <DrillingOffset>0</DrillingOffset>
+      <JustDrillingDiameter>0</JustDrillingDiameter>
+      <DrillingAsAxeDiameter>0</DrillingAsAxeDiameter>
+      <TenonFormRadius>0</TenonFormRadius>
+      <ThroughOverLength>0</ThroughOverLength>
+      <ThrougArchValue>0</ThrougArchValue>
+      <ThrougFrontedValue>0</ThrougFrontedValue>
+      <NumberOfDrillings>2</NumberOfDrillings>
+      <IsDirectionAlignedToCounterpart>false</IsDirectionAlignedToCounterpart>
+      <IsBackCutPeripherally>false</IsBackCutPeripherally>
+      <IsBackCutRunningDirectionSymmetric>true</IsBackCutRunningDirectionSymmetric>
+      <IsBackCutCrossingDirectionSymmetric>true</IsBackCutCrossingDirectionSymmetric>
+      <IsHousingPeripherally>false</IsHousingPeripherally>
+      <GridTopDistance>0</GridTopDistance>
+      <GridBottomDistance>0</GridBottomDistance>
+      <GridLeftDistance>0</GridLeftDistance>
+      <GridRightDistance>0</GridRightDistance>
+      <GridDistanceToBeam>0</GridDistanceToBeam>
+      <IsGridDistancesAutomatically>true</IsGridDistancesAutomatically>
+      <IsDrillingTopRight>false</IsDrillingTopRight>
+      <IsDrillingTopCenter>false</IsDrillingTopCenter>
+      <IsDrillingTopLeft>false</IsDrillingTopLeft>
+      <IsDrillingCenterLeft>false</IsDrillingCenterLeft>
+      <IsDrillingCenterCenter>false</IsDrillingCenterCenter>
+      <IsDrillingCenterRight>false</IsDrillingCenterRight>
+      <IsDrillingBottomLeft>false</IsDrillingBottomLeft>
+      <IsDrillingBottomCenter>false</IsDrillingBottomCenter>
+      <IsDrillingBottomRight>false</IsDrillingBottomRight>
+      <StdVbaGuid>{00000000-0000-0000-0000-000000000000}</StdVbaGuid>
+    </Tenon>
+    <Tenon Id="13" Name="Tenon_70_40_H">
+      <LengthMode>Value</LengthMode>
+      <WidthMode>Value</WidthMode>
+      <Direction>Height</Direction>
+      <Relation>Height</Relation>
+      <Reference>Original</Reference>
+      <PositiveHaunchOverMeasureMode>LikeMortise</PositiveHaunchOverMeasureMode>
+      <NegativeHaunchOverMeasureMode>LikeMortise</NegativeHaunchOverMeasureMode>
+      <HousingOverMeasureMode>LikeMortise</HousingOverMeasureMode>
+      <HousingForm>Rounded</HousingForm>
+      <CenteringMode>Center</CenteringMode>
+      <DoubleTenonMode>DistanceCenter</DoubleTenonMode>
+      <DrillingsMode>None</DrillingsMode>
+      <DrillingsNumberMode>One</DrillingsNumberMode>
+      <OneDrillingPositionMode>Automatic</OneDrillingPositionMode>
+      <MinTwoDrillingsPositionMode>Automatic</MinTwoDrillingsPositionMode>
+      <DrillingDivisionMode>TenonDimensions</DrillingDivisionMode>
+      <DrillingExecutionMode>JustDrilling</DrillingExecutionMode>
+      <TenonForm>Rounded</TenonForm>
+      <ChamferType>None</ChamferType>
+      <ThroughExecutionMode>Angularly</ThroughExecutionMode>
+      <LengthValue>70</LengthValue>
+      <LengthPercent>0</LengthPercent>
+      <LengthDividend>0</LengthDividend>
+      <LengthDivisor>1</LengthDivisor>
+      <WidthValue>40</WidthValue>
+      <WidthPercent>0</WidthPercent>
+      <WidthDividend>0</WidthDividend>
+      <WidthDivisor>1</WidthDivisor>
+      <MortiseDepth>2</MortiseDepth>
+      <MortiseRunningDirection>1</MortiseRunningDirection>
+      <MortiseCrossingDirection>1</MortiseCrossingDirection>
+      <BackCutEdge>0</BackCutEdge>
+      <BackCutTop>0</BackCutTop>
+      <BackCutBottom>0</BackCutBottom>
+      <BackCutLeft>0</BackCutLeft>
+      <BackCutRight>0</BackCutRight>
+      <HaunchPosHeight>0</HaunchPosHeight>
+      <HaunchPosLength>0</HaunchPosLength>
+      <HaunchPosOverMeasureDepth>0</HaunchPosOverMeasureDepth>
+      <HaunchNegHeight>0</HaunchNegHeight>
+      <HaunchNegLength>0</HaunchNegLength>
+      <HaunchNegOverMeasureDepth>0</HaunchNegOverMeasureDepth>
+      <HousingLength>0</HousingLength>
+      <HousingOverMeasureDepth>0</HousingOverMeasureDepth>
+      <HousingTop>0</HousingTop>
+      <HousingBottom>0</HousingBottom>
+      <HousingLeft>0</HousingLeft>
+      <HousingRight>0</HousingRight>
+      <HousingRadius>0</HousingRadius>
+      <CenteringLeft>0</CenteringLeft>
+      <CenteringRight>0</CenteringRight>
+      <CenteringCenter>0</CenteringCenter>
+      <DoubleTenonDistanceCenter>0</DoubleTenonDistanceCenter>
+      <DoubleTenonDistance>0</DoubleTenonDistance>
+      <OneDrillingAngle>0</OneDrillingAngle>
+      <OneDrillingX>0</OneDrillingX>
+      <OneDrillingY>0</OneDrillingY>
+      <MinTwoDrillingsX1>0</MinTwoDrillingsX1>
+      <MinTwoDrillingsX2>0</MinTwoDrillingsX2>
+      <MinTwoDrillingsY>0</MinTwoDrillingsY>
+      <DrillingOffset>0</DrillingOffset>
+      <JustDrillingDiameter>0</JustDrillingDiameter>
+      <DrillingAsAxeDiameter>0</DrillingAsAxeDiameter>
+      <TenonFormRadius>0</TenonFormRadius>
+      <ThroughOverLength>0</ThroughOverLength>
+      <ThrougArchValue>0</ThrougArchValue>
+      <ThrougFrontedValue>0</ThrougFrontedValue>
+      <NumberOfDrillings>2</NumberOfDrillings>
+      <IsDirectionAlignedToCounterpart>false</IsDirectionAlignedToCounterpart>
+      <IsBackCutPeripherally>false</IsBackCutPeripherally>
+      <IsBackCutRunningDirectionSymmetric>true</IsBackCutRunningDirectionSymmetric>
+      <IsBackCutCrossingDirectionSymmetric>true</IsBackCutCrossingDirectionSymmetric>
+      <IsHousingPeripherally>false</IsHousingPeripherally>
+      <GridTopDistance>0</GridTopDistance>
+      <GridBottomDistance>0</GridBottomDistance>
+      <GridLeftDistance>0</GridLeftDistance>
+      <GridRightDistance>0</GridRightDistance>
+      <GridDistanceToBeam>0</GridDistanceToBeam>
+      <IsGridDistancesAutomatically>true</IsGridDistancesAutomatically>
+      <IsDrillingTopRight>false</IsDrillingTopRight>
+      <IsDrillingTopCenter>false</IsDrillingTopCenter>
+      <IsDrillingTopLeft>false</IsDrillingTopLeft>
+      <IsDrillingCenterLeft>false</IsDrillingCenterLeft>
+      <IsDrillingCenterCenter>false</IsDrillingCenterCenter>
+      <IsDrillingCenterRight>false</IsDrillingCenterRight>
+      <IsDrillingBottomLeft>false</IsDrillingBottomLeft>
+      <IsDrillingBottomCenter>false</IsDrillingBottomCenter>
+      <IsDrillingBottomRight>false</IsDrillingBottomRight>
+      <StdVbaGuid>{00000000-0000-0000-0000-000000000000}</StdVbaGuid>
+    </Tenon>
+    <Tenon Id="14" Name="tenon_70_40_L">
+      <LengthMode>Value</LengthMode>
+      <WidthMode>Value</WidthMode>
+      <Direction>Width</Direction>
+      <Relation>Width</Relation>
+      <Reference>Original</Reference>
+      <PositiveHaunchOverMeasureMode>LikeMortise</PositiveHaunchOverMeasureMode>
+      <NegativeHaunchOverMeasureMode>LikeMortise</NegativeHaunchOverMeasureMode>
+      <HousingOverMeasureMode>LikeMortise</HousingOverMeasureMode>
+      <HousingForm>Rounded</HousingForm>
+      <CenteringMode>Center</CenteringMode>
+      <DoubleTenonMode>DistanceCenter</DoubleTenonMode>
+      <DrillingsMode>None</DrillingsMode>
+      <DrillingsNumberMode>One</DrillingsNumberMode>
+      <OneDrillingPositionMode>Automatic</OneDrillingPositionMode>
+      <MinTwoDrillingsPositionMode>Automatic</MinTwoDrillingsPositionMode>
+      <DrillingDivisionMode>TenonDimensions</DrillingDivisionMode>
+      <DrillingExecutionMode>JustDrilling</DrillingExecutionMode>
+      <TenonForm>Rounded</TenonForm>
+      <ChamferType>None</ChamferType>
+      <ThroughExecutionMode>Angularly</ThroughExecutionMode>
+      <LengthValue>70</LengthValue>
+      <LengthPercent>0</LengthPercent>
+      <LengthDividend>0</LengthDividend>
+      <LengthDivisor>1</LengthDivisor>
+      <WidthValue>40</WidthValue>
+      <WidthPercent>0</WidthPercent>
+      <WidthDividend>0</WidthDividend>
+      <WidthDivisor>1</WidthDivisor>
+      <MortiseDepth>2</MortiseDepth>
+      <MortiseRunningDirection>1</MortiseRunningDirection>
+      <MortiseCrossingDirection>1</MortiseCrossingDirection>
+      <BackCutEdge>0</BackCutEdge>
+      <BackCutTop>0</BackCutTop>
+      <BackCutBottom>0</BackCutBottom>
+      <BackCutLeft>0</BackCutLeft>
+      <BackCutRight>0</BackCutRight>
+      <HaunchPosHeight>0</HaunchPosHeight>
+      <HaunchPosLength>0</HaunchPosLength>
+      <HaunchPosOverMeasureDepth>0</HaunchPosOverMeasureDepth>
+      <HaunchNegHeight>0</HaunchNegHeight>
+      <HaunchNegLength>0</HaunchNegLength>
+      <HaunchNegOverMeasureDepth>0</HaunchNegOverMeasureDepth>
+      <HousingLength>0</HousingLength>
+      <HousingOverMeasureDepth>0</HousingOverMeasureDepth>
+      <HousingTop>0</HousingTop>
+      <HousingBottom>0</HousingBottom>
+      <HousingLeft>0</HousingLeft>
+      <HousingRight>0</HousingRight>
+      <HousingRadius>0</HousingRadius>
+      <CenteringLeft>0</CenteringLeft>
+      <CenteringRight>0</CenteringRight>
+      <CenteringCenter>0</CenteringCenter>
+      <DoubleTenonDistanceCenter>0</DoubleTenonDistanceCenter>
+      <DoubleTenonDistance>0</DoubleTenonDistance>
+      <OneDrillingAngle>0</OneDrillingAngle>
+      <OneDrillingX>0</OneDrillingX>
+      <OneDrillingY>0</OneDrillingY>
+      <MinTwoDrillingsX1>0</MinTwoDrillingsX1>
+      <MinTwoDrillingsX2>0</MinTwoDrillingsX2>
+      <MinTwoDrillingsY>0</MinTwoDrillingsY>
+      <DrillingOffset>0</DrillingOffset>
+      <JustDrillingDiameter>0</JustDrillingDiameter>
+      <DrillingAsAxeDiameter>0</DrillingAsAxeDiameter>
+      <TenonFormRadius>0</TenonFormRadius>
+      <ThroughOverLength>0</ThroughOverLength>
+      <ThrougArchValue>0</ThrougArchValue>
+      <ThrougFrontedValue>0</ThrougFrontedValue>
+      <NumberOfDrillings>2</NumberOfDrillings>
+      <IsDirectionAlignedToCounterpart>false</IsDirectionAlignedToCounterpart>
+      <IsBackCutPeripherally>false</IsBackCutPeripherally>
+      <IsBackCutRunningDirectionSymmetric>true</IsBackCutRunningDirectionSymmetric>
+      <IsBackCutCrossingDirectionSymmetric>true</IsBackCutCrossingDirectionSymmetric>
+      <IsHousingPeripherally>false</IsHousingPeripherally>
+      <GridTopDistance>0</GridTopDistance>
+      <GridBottomDistance>0</GridBottomDistance>
+      <GridLeftDistance>0</GridLeftDistance>
+      <GridRightDistance>0</GridRightDistance>
+      <GridDistanceToBeam>0</GridDistanceToBeam>
+      <IsGridDistancesAutomatically>true</IsGridDistancesAutomatically>
+      <IsDrillingTopRight>false</IsDrillingTopRight>
+      <IsDrillingTopCenter>false</IsDrillingTopCenter>
+      <IsDrillingTopLeft>false</IsDrillingTopLeft>
+      <IsDrillingCenterLeft>false</IsDrillingCenterLeft>
+      <IsDrillingCenterCenter>false</IsDrillingCenterCenter>
+      <IsDrillingCenterRight>false</IsDrillingCenterRight>
+      <IsDrillingBottomLeft>false</IsDrillingBottomLeft>
+      <IsDrillingBottomCenter>false</IsDrillingBottomCenter>
+      <IsDrillingBottomRight>false</IsDrillingBottomRight>
+      <StdVbaGuid>{00000000-0000-0000-0000-000000000000}</StdVbaGuid>
+    </Tenon>
+  </EndtypesBranch>
+  <extrusion/>
+  <solder/>
+  <measure/>
+  <duplication>
+    <dupv index="1" pt1="22" nb_duplic="62" pt2="30" type_elem="2" num_elem="6"/>
+    <dupv index="2" pt1="22" nb_duplic="62" pt2="30" type_elem="2" num_elem="7"/>
+  </duplication>
+  <materiel>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="76.9822" code="0" e_modul_2="0" texture_zoom_y="0.4" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="72" u_min="0" display_unit="-1" smoke="" grname="Métaux" fire_resistance="" g_modul_2="0" name="Acier" u_max="0" drop="" weight_type="1" texture_zoom_x="0.4" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="1"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="76.9822" code="0" e_modul_2="0" texture_zoom_y="0.4" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="72" u_min="0" display_unit="-1" smoke="" grname="Métaux" fire_resistance="" g_modul_2="0" name="Acier 4.6" u_max="0" drop="" weight_type="1" texture_zoom_x="0.4" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="2"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="76.9822" code="0" e_modul_2="0" texture_zoom_y="0.4" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="72" u_min="0" display_unit="-1" smoke="" grname="Métaux" fire_resistance="" g_modul_2="0" name="Acier 6.8" u_max="0" drop="" weight_type="1" texture_zoom_x="0.4" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="3"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="26.478" code="0" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="926" u_min="0" display_unit="-1" smoke="" grname="Métaux" fire_resistance="" g_modul_2="0" name="Aluminium" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="4"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.2942" code="" e_modul_2="0" texture_zoom_y="0.6" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="947" u_min="0" display_unit="-1" smoke="" grname="Toiture" fire_resistance="" g_modul_2="0" name="Ardoises" u_max="0" drop="" weight_type="2" texture_zoom_x="0.6" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="5"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.2942" code="" e_modul_2="0" texture_zoom_y="0.4" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="946" u_min="0" display_unit="-1" smoke="" grname="Toiture" fire_resistance="" g_modul_2="0" name="Ardoises rondes" u_max="0" drop="" weight_type="2" texture_zoom_x="0.4" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="6"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.100028" code="" e_modul_2="0" texture_zoom_y="0.5" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="88" u_min="0" display_unit="-1" smoke="" grname="Panneaux" fire_resistance="" g_modul_2="0" name="BA13" u_max="0" drop="" weight_type="2" texture_zoom_x="0.5" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="7"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.196133" code="" e_modul_2="0" texture_zoom_y="0.3" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="241" u_min="0" display_unit="-1" smoke="" grname="Toiture" fire_resistance="" g_modul_2="0" name="Bac acier" u_max="0" drop="" weight_type="2" texture_zoom_x="0.3" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="8"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.90333" code="" e_modul_2="0" texture_zoom_y="0.5" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="77" u_min="0" display_unit="-1" smoke="" grname="Paroi" fire_resistance="" g_modul_2="0" name="Bardage" u_max="0" drop="" weight_type="1" texture_zoom_x="0.5" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="9"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.90333" code="" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="169" u_min="0" display_unit="-1" smoke="" grname="Paroi" fire_resistance="" g_modul_2="0" name="Bardage blanc" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="10"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="23.536" code="" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="260" u_min="0" display_unit="-1" smoke="" grname="Gros oeuvre" fire_resistance="" g_modul_2="0" name="Béton" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="11"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.90333" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="2527" u_min="0" display_unit="-1" smoke="" grname="Paroi" fire_resistance="" g_modul_2="0" name="Bois massif contrecloué" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="12"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.90333" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="2527" u_min="0" display_unit="-1" smoke="" grname="Paroi" fire_resistance="" g_modul_2="0" name="Bois massif contrecollé" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="13"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="12.7486" code="" e_modul_2="0" texture_zoom_y="0.5" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="463" u_min="0" display_unit="-1" smoke="" grname="Gros oeuvre" fire_resistance="" g_modul_2="0" name="Brique" u_max="0" drop="" weight_type="1" texture_zoom_x="0.5" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="14"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="16.6713" code="" e_modul_2="0" texture_zoom_y="1.4" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="258" u_min="0" display_unit="-1" smoke="" grname="Gros oeuvre" fire_resistance="" g_modul_2="0" name="Briquette" u_max="0" drop="" weight_type="1" texture_zoom_x="1.4" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="15"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="2.84393" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Bois de structure résineux" fire_resistance="" g_modul_2="0" name="C14" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="16"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="3.04006" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Bois de structure résineux" fire_resistance="" g_modul_2="0" name="C16" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="17"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="3.13813" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Bois de structure résineux" fire_resistance="" g_modul_2="0" name="C18" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="18"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="3.33426" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Bois de structure résineux" fire_resistance="" g_modul_2="0" name="C22" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="19"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="3.43233" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Bois de structure résineux" fire_resistance="" g_modul_2="0" name="C24" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="20"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="3.62846" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Bois de structure résineux" fire_resistance="" g_modul_2="0" name="C27" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="21"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="3.72653" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Bois de structure résineux" fire_resistance="" g_modul_2="0" name="C30" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="22"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="3.92266" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Bois de structure résineux" fire_resistance="" g_modul_2="0" name="C35" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="23"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.11879" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Bois de structure résineux" fire_resistance="" g_modul_2="0" name="C40" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="24"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0" code="" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="44" u_min="0" display_unit="-1" smoke="" grname="Matériaux divers" fire_resistance="" g_modul_2="0" name="Céramique" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="25"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.441299" code="0" e_modul_2="0" texture_zoom_y="0.1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="963" u_min="0" display_unit="-1" smoke="" grname="Isolation" fire_resistance="" g_modul_2="0" name="Chanvre" u_max="0" drop="" weight_type="1" texture_zoom_x="0.1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="26"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="7.84532" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="294" u_min="0" display_unit="-1" smoke="" grname="Structure &amp; Charpente" fire_resistance="" g_modul_2="0" name="Chêne" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="27"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="23.536" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="261" u_min="0" display_unit="-1" smoke="" grname="Gros oeuvre" fire_resistance="" g_modul_2="0" name="Ciment clair" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="28"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="23.536" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="263" u_min="0" display_unit="-1" smoke="" grname="Gros oeuvre" fire_resistance="" g_modul_2="0" name="Ciment foncé" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="29"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="19.6133" code="" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="63" u_min="0" display_unit="-1" smoke="" grname="Paroi" fire_resistance="" g_modul_2="0" name="Crépi" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="30"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0" code="" e_modul_2="0" texture_zoom_y="0.15" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="900" u_min="0" display_unit="-1" smoke="" grname="Matériaux divers" fire_resistance="" g_modul_2="0" name="Cuir" u_max="0" drop="" weight_type="1" texture_zoom_x="0.15" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="31"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="87.4753" code="0" e_modul_2="0" texture_zoom_y="0.1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="933" u_min="0" display_unit="-1" smoke="" grname="Métaux" fire_resistance="" g_modul_2="0" name="Cuivre" u_max="0" drop="" weight_type="1" texture_zoom_x="0.1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="32"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="5.19753" code="" e_modul_2="0" texture_zoom_y="0.3" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="294" u_min="0" display_unit="-1" smoke="" grname="Bois de structure feuillus" fire_resistance="" g_modul_2="0" name="D30" u_max="0" drop="" weight_type="1" texture_zoom_x="0.3" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="33"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="5.49172" code="" e_modul_2="0" texture_zoom_y="0.3" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="294" u_min="0" display_unit="-1" smoke="" grname="Bois de structure feuillus" fire_resistance="" g_modul_2="0" name="D35" u_max="0" drop="" weight_type="1" texture_zoom_x="0.3" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="34"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="5.78592" code="" e_modul_2="0" texture_zoom_y="0.3" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="294" u_min="0" display_unit="-1" smoke="" grname="Bois de structure feuillus" fire_resistance="" g_modul_2="0" name="D40" u_max="0" drop="" weight_type="1" texture_zoom_x="0.3" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="35"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="6.37432" code="" e_modul_2="0" texture_zoom_y="0.3" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="294" u_min="0" display_unit="-1" smoke="" grname="Bois de structure feuillus" fire_resistance="" g_modul_2="0" name="D50" u_max="0" drop="" weight_type="1" texture_zoom_x="0.3" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="36"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="6.86466" code="" e_modul_2="0" texture_zoom_y="0.3" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="294" u_min="0" display_unit="-1" smoke="" grname="Bois de structure feuillus" fire_resistance="" g_modul_2="0" name="D60" u_max="0" drop="" weight_type="1" texture_zoom_x="0.3" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="37"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="8.82599" code="" e_modul_2="0" texture_zoom_y="0.3" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="294" u_min="0" display_unit="-1" smoke="" grname="Bois de structure feuillus" fire_resistance="" g_modul_2="0" name="D70" u_max="0" drop="" weight_type="1" texture_zoom_x="0.3" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="38"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="5.39366" code="" e_modul_2="0" texture_zoom_y="0.1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="118" u_min="0" display_unit="-1" smoke="" grname="Structure &amp; Charpente" fire_resistance="" g_modul_2="0" name="Douglas" u_max="0" drop="" weight_type="1" texture_zoom_x="0.1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="39"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="9.80665" code="0" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="74" u_min="0" display_unit="-1" smoke="" grname="Matériaux divers" fire_resistance="" g_modul_2="0" name="Eau" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="40"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="23.0456" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="966" u_min="0" display_unit="-1" smoke="" grname="Gros oeuvre" fire_resistance="" g_modul_2="0" name="Enrobé" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="41"/>
+    <mat e_modul_1="0" texture_color="0" weight_value="0" code="" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="50" g_modul_1="0" display_input="0" texture_id="624" u_min="0" display_unit="-1" smoke="" grname="Paroi" fire_resistance="" g_modul_2="0" name="Enveloppe extérieure" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="42"/>
+    <mat e_modul_1="0" texture_color="0" weight_value="0" code="" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="50" g_modul_1="0" display_input="0" texture_id="626" u_min="0" display_unit="-1" smoke="" grname="Paroi" fire_resistance="" g_modul_2="0" name="Enveloppe intérieure" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="43"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.90333" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Structure &amp; Charpente" fire_resistance="" g_modul_2="0" name="Epicéa" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="44"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="11.768" code="" e_modul_2="0" texture_zoom_y="0.5" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="88" u_min="0" display_unit="-1" smoke="" grname="Panneaux" fire_resistance="" g_modul_2="0" name="Fermacell" u_max="0" drop="" weight_type="1" texture_zoom_x="0.5" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="45"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.441299" code="0" e_modul_2="0" texture_zoom_y="0.5" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="69" u_min="0" display_unit="-1" smoke="" grname="Isolation" fire_resistance="" g_modul_2="0" name="Fibre de bois" u_max="0" drop="" weight_type="1" texture_zoom_x="0.5" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="46"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0" code="0" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="7" u_min="0" display_unit="-1" smoke="" grname="Matériaux divers" fire_resistance="" g_modul_2="0" name="Gazon" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="47"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="3.43233" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="87" u_min="0" display_unit="-1" smoke="" grname="Bois de structure LC" fire_resistance="" g_modul_2="0" name="GL24c" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="48"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="3.72653" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="87" u_min="0" display_unit="-1" smoke="" grname="Bois de structure LC" fire_resistance="" g_modul_2="0" name="GL24h" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="49"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="3.72653" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="87" u_min="0" display_unit="-1" smoke="" grname="Bois de structure LC" fire_resistance="" g_modul_2="0" name="GL28c" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="50"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.02073" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="87" u_min="0" display_unit="-1" smoke="" grname="Bois de structure LC" fire_resistance="" g_modul_2="0" name="GL28h" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="51"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.02073" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="87" u_min="0" display_unit="-1" smoke="" grname="Bois de structure LC" fire_resistance="" g_modul_2="0" name="GL32c" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="52"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.21686" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="87" u_min="0" display_unit="-1" smoke="" grname="Bois de structure LC" fire_resistance="" g_modul_2="0" name="GL32h" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="53"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.21686" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="87" u_min="0" display_unit="-1" smoke="" grname="Bois de structure LC" fire_resistance="" g_modul_2="0" name="GL36c" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="54"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.41299" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="87" u_min="0" display_unit="-1" smoke="" grname="Bois de structure LC" fire_resistance="" g_modul_2="0" name="GL36h" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="55"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.245166" code="0" e_modul_2="0" texture_zoom_y="0.5" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="79" u_min="0" display_unit="-1" smoke="" grname="Isolation" fire_resistance="" g_modul_2="0" name="Laine minérale" u_max="0" drop="" weight_type="1" texture_zoom_x="0.5" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="56"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.90333" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="87" u_min="0" display_unit="-1" smoke="" grname="Structure &amp; Charpente" fire_resistance="" g_modul_2="0" name="Lamellé-collé" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="57"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="1.1768" code="0" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="23" u_min="0" display_unit="-1" smoke="" grname="Isolation" fire_resistance="" g_modul_2="0" name="Liège" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="58"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="6.86466" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="69" u_min="0" display_unit="-1" smoke="" grname="Panneaux" fire_resistance="" g_modul_2="0" name="MDF" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="59"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="5.88399" code="" e_modul_2="0" texture_zoom_y="0.1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="401" u_min="0" display_unit="-1" smoke="" grname="Structure &amp; Charpente" fire_resistance="" g_modul_2="0" name="Mélèze" u_max="0" drop="" weight_type="1" texture_zoom_x="0.1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="60"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="6.17819" code="" e_modul_2="0" texture_zoom_y="0.3" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="53" u_min="0" display_unit="-1" smoke="" grname="Panneaux" fire_resistance="" g_modul_2="0" name="OSB 3" u_max="0" drop="" weight_type="1" texture_zoom_x="0.3" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="61"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="6.37432" code="" e_modul_2="0" texture_zoom_y="0.3" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="53" u_min="0" display_unit="-1" smoke="" grname="Panneaux" fire_resistance="" g_modul_2="0" name="OSB 4" u_max="0" drop="" weight_type="1" texture_zoom_x="0.3" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="62"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.441299" code="0" e_modul_2="0" texture_zoom_y="0.5" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="88" u_min="0" display_unit="-1" smoke="" grname="Isolation" fire_resistance="" g_modul_2="0" name="Ouate de cellulose" u_max="0" drop="" weight_type="1" texture_zoom_x="0.5" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="63"/>
+    <mat e_modul_1="0" texture_color="0" weight_value="0" code="" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="50" g_modul_1="0" display_input="0" texture_id="627" u_min="0" display_unit="-1" smoke="" grname="Paroi" fire_resistance="" g_modul_2="0" name="Ouverture" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="64"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.784532" code="0" e_modul_2="0" texture_zoom_y="0.5" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="79" u_min="0" display_unit="-1" smoke="" grname="Isolation" fire_resistance="" g_modul_2="0" name="Paille" u_max="0" drop="" weight_type="1" texture_zoom_x="0.5" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="65"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0" code="" e_modul_2="0" texture_zoom_y="0.8" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="981" u_min="0" display_unit="-1" smoke="" grname="Toiture" fire_resistance="" g_modul_2="0" name="Pare-pluie" u_max="0" drop="" weight_type="2" texture_zoom_x="0.8" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="66"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="17.652" code="" e_modul_2="0" texture_zoom_y="0.5" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="456" u_min="0" display_unit="-1" smoke="" grname="Gros oeuvre" fire_resistance="" g_modul_2="0" name="Parpaing" u_max="0" drop="" weight_type="1" texture_zoom_x="0.5" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="67"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0" code="" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="0" u_min="0" display_unit="-1" smoke="" grname="Matériaux divers" fire_resistance="" g_modul_2="0" name="Pas de matériau" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="68"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="5.39366" code="" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="120" u_min="0" display_unit="-1" smoke="" grname="Structure &amp; Charpente" fire_resistance="" g_modul_2="0" name="Pin" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="69"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.196133" code="" e_modul_2="0" texture_zoom_y="0.5" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="2522" u_min="0" display_unit="-1" smoke="" grname="Isolation" fire_resistance="" g_modul_2="0" name="Polystyrène expansé" u_max="0" drop="" weight_type="1" texture_zoom_x="0.5" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="70"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="6.47239" code="" e_modul_2="0" texture_zoom_y="0.1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="81" u_min="0" display_unit="-1" smoke="" grname="Panneaux" fire_resistance="" g_modul_2="0" name="PP" u_max="0" drop="" weight_type="1" texture_zoom_x="0.1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="71"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="76.9822" code="" e_modul_2="0" texture_zoom_y="0.4" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="72" u_min="0" display_unit="-1" smoke="" grname="Métaux" fire_resistance="" g_modul_2="0" name="Quincaillerie" u_max="0" drop="" weight_type="1" texture_zoom_x="0.4" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="72"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0" code="" e_modul_2="0" texture_zoom_y="0.3" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="927" u_min="0" display_unit="-1" smoke="" grname="Paroi" fire_resistance="" g_modul_2="0" name="R48" u_max="0" drop="" weight_type="1" texture_zoom_x="0.3" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="73"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0" code="" e_modul_2="0" texture_zoom_y="0.005" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="77" u_min="0" display_unit="-1" smoke="" grname="Matériaux divers" fire_resistance="" g_modul_2="0" name="Resineux" u_max="0" drop="" weight_type="1" texture_zoom_x="0.005" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="74"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="15.6906" code="0" e_modul_2="0" texture_zoom_y="0.3" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="223" u_min="0" display_unit="-1" smoke="" grname="Matériaux divers" fire_resistance="" g_modul_2="0" name="Sable" u_max="0" drop="" weight_type="1" texture_zoom_x="0.3" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="75"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.90333" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Structure &amp; Charpente" fire_resistance="" g_modul_2="0" name="Sapin" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="76"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="4.90333" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="895" u_min="0" display_unit="-1" smoke="" grname="Structure &amp; Charpente" fire_resistance="" g_modul_2="0" name="Sapin blanc" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="77"/>
+    <mat e_modul_1="0" texture_color="65280" weight_value="4.90333" code="" e_modul_2="0" texture_zoom_y="0.7" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="85" u_min="0" display_unit="-1" smoke="" grname="Structure &amp; Charpente" fire_resistance="" g_modul_2="0" name="Sapin traité" u_max="0" drop="" weight_type="1" texture_zoom_x="0.7" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="78"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.196133" code="" e_modul_2="0" texture_zoom_y="1.35" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="76" u_min="0" display_unit="-1" smoke="" grname="Toiture" fire_resistance="" g_modul_2="0" name="Tavaillons" u_max="0" drop="" weight_type="2" texture_zoom_x="1.35" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="79"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0" code="" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="100" g_modul_1="0" display_input="0" texture_id="630" u_min="0" display_unit="-1" smoke="" grname="Matériaux divers" fire_resistance="" g_modul_2="0" name="Transparent" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="80"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.490333" code="" e_modul_2="0" texture_zoom_y="0.5" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="415" u_min="0" display_unit="-1" smoke="" grname="Toiture" fire_resistance="" g_modul_2="0" name="Tuiles méc. oranges" u_max="0" drop="" weight_type="2" texture_zoom_x="0.5" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="81"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.490333" code="" e_modul_2="0" texture_zoom_y="1.6" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="3" u_min="0" display_unit="-1" smoke="" grname="Toiture" fire_resistance="" g_modul_2="0" name="Tuiles méc. rouges" u_max="0" drop="" weight_type="2" texture_zoom_x="1.6" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="82"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="0.588399" code="" e_modul_2="0" texture_zoom_y="0.8" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="82" u_min="0" display_unit="-1" smoke="" grname="Toiture" fire_resistance="" g_modul_2="0" name="Tuiles plates" u_max="0" drop="" weight_type="2" texture_zoom_x="0.8" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="83"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="24.8108" code="" e_modul_2="0" texture_zoom_y="1" e_modul_3="0" thermal_conductivity="0" texture_transparency="40" g_modul_1="0" display_input="0" texture_id="101" u_min="0" display_unit="-1" smoke="" grname="Matériaux divers" fire_resistance="" g_modul_2="0" name="Verre" u_max="0" drop="" weight_type="1" texture_zoom_x="1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="84"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="70.1176" code="0" e_modul_2="0" texture_zoom_y="0.1" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="0" texture_id="97" u_min="0" display_unit="-1" smoke="" grname="Métaux" fire_resistance="" g_modul_2="0" name="Zinc" u_max="0" drop="" weight_type="1" texture_zoom_x="0.1" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="85"/>
+    <mat e_modul_1="0" texture_color="16777215" weight_value="3.43233" code="" e_modul_2="0" texture_zoom_y="0.2" e_modul_3="0" thermal_conductivity="0" texture_transparency="0" g_modul_1="0" display_input="1" texture_id="87" u_min="0" display_unit="1" smoke="" grname="Bois de structure LC" fire_resistance="" g_modul_2="0" name="Egle" u_max="0" drop="" weight_type="1" texture_zoom_x="0.2" heat_capacity="0" price="0" burn_off_rate="0" price_type="1" texture_rot_angle="0" index="86"/>
+  </materiel>
+  <default_val/>
+  <default_text/>
+  <list_name>
+    <name_elem beatyp2="175" beatyp1="0" name="Aisselier"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Allége"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Arbalétrier"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Arêtier"/>
+    <name_elem beatyp2="175" beatyp1="11" name="Balustre"/>
+    <name_elem beatyp2="175" beatyp1="6" name="Bandeau"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Bandeau de rive"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Bardage"/>
+    <name_elem beatyp2="174" beatyp1="2" name="Blochet"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Boulon"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Boulon composé"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Bras"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Cable métallique"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Cache"/>
+    <name_elem beatyp2="175" beatyp1="6" name="Ceinture"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Cheminée"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Chevêtre"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Cheville"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Chevron"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Chevron de rive"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Contrefiche"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Contrelatte"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Contremarche"/>
+    <name_elem beatyp2="175" beatyp1="30" name="Contreventement"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Corbeau"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Coyer"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Croix"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Dalle"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Dé béton"/>
+    <name_elem beatyp2="175" beatyp1="6" name="Demi-entrait"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Echantignolle"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Echarpe"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Empannon"/>
+    <name_elem beatyp2="175" beatyp1="3" name="Entrait"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Entrait moisé"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Entretoise"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Enveloppe"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Etrésillon"/>
+    <name_elem beatyp2="175" beatyp1="2" name="F1"/>
+    <name_elem beatyp2="175" beatyp1="50" name="Faitage"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Faîtière"/>
+    <name_elem beatyp2="175" beatyp1="2" name="FEN1"/>
+    <name_elem beatyp2="175" beatyp1="50" name="FEN2"/>
+    <name_elem beatyp2="175" beatyp1="50" name="Fenêtre"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Fenêtre de toit"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Ferrure"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Ferrure pied"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Ferrure tête"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Fiche"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Fourrure"/>
+    <name_elem beatyp2="175" beatyp1="11" name="Gousset"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Isolation"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Jambe de force"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Jouée"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Latte"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Lattis"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Lien"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Lien de Faitage"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Lien de sablière"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Lierne"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Limon"/>
+    <name_elem beatyp2="175" beatyp1="5" name="Linteau"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Lisse"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Lisse basse"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Lisse de chaînage"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Lisse de pose"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Lisse d'implantation"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Lisse haute"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Liteau"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Madrier"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Main courante"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Marche"/>
+    <name_elem beatyp2="175" beatyp1="30" name="Moise"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Montant"/>
+    <name_elem beatyp2="175" beatyp1="6" name="Montant cadre"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Montant vantail"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Mur"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Muraillière"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Noue"/>
+    <name_elem beatyp2="175" beatyp1="11" name="Noue chanlattée"/>
+    <name_elem beatyp2="175" beatyp1="2" name="OSB"/>
+    <name_elem beatyp2="175" beatyp1="5" name="P450"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Panne"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Panne à devers"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Panne aplomb"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Panneau"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Panneau plein"/>
+    <name_elem beatyp2="175" beatyp1="5" name="Paroi"/>
+    <name_elem beatyp2="175" beatyp1="5" name="Pièce d'appui"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Pied de poteau"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Pignon"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Planche de rive"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Plaque de platre"/>
+    <name_elem beatyp2="175" beatyp1="5" name="Plat métallique"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Platine"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Plot béton"/>
+    <name_elem beatyp2="175" beatyp1="6" name="Poinçon"/>
+    <name_elem beatyp2="175" beatyp1="6" name="POR1"/>
+    <name_elem beatyp2="175" beatyp1="50" name="POR2"/>
+    <name_elem beatyp2="175" beatyp1="50" name="Porte"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Poteau"/>
+    <name_elem beatyp2="175" beatyp1="6" name="Poutre"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Poutre en I"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Poutre L.C."/>
+    <name_elem beatyp2="175" beatyp1="2" name="Poutre porteuse"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Poutre porteuse L.C."/>
+    <name_elem beatyp2="175" beatyp1="2" name="Raccord de comble"/>
+    <name_elem beatyp2="175" beatyp1="2" name="RES1"/>
+    <name_elem beatyp2="175" beatyp1="50" name="RES2"/>
+    <name_elem beatyp2="175" beatyp1="50" name="S1"/>
+    <name_elem beatyp2="175" beatyp1="50" name="Sablière"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Sabot"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Semelle"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Solive"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Surface"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Tasseau"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Terrain"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Tige filetée"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Tirant"/>
+    <name_elem beatyp2="175" beatyp1="1" name="Tire-fond"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Toiture"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Traverse"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Traverse basse"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Traverse cadre"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Traverse haute"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Traverse vantail"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Triply"/>
+    <name_elem beatyp2="175" beatyp1="5" name="Tuile"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Vitrage"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Volet"/>
+    <name_elem beatyp2="175" beatyp1="0" name="Volige"/>
+    <name_elem beatyp2="175" beatyp1="2" name="Wall"/>
+  </list_name>
+  <list_group>
+    <group_elem name="Aisselier"/>
+    <group_elem name="Allége"/>
+    <group_elem name="Arbalétrier"/>
+    <group_elem name="Arêtier"/>
+    <group_elem name="Balustre"/>
+    <group_elem name="Bandeau"/>
+    <group_elem name="Bandeau de rive"/>
+    <group_elem name="Bardage"/>
+    <group_elem name="Blochet"/>
+    <group_elem name="Boulon"/>
+    <group_elem name="Boulon composé"/>
+    <group_elem name="Bras"/>
+    <group_elem name="Cable métallique"/>
+    <group_elem name="Cache"/>
+    <group_elem name="Ceinture"/>
+    <group_elem name="Cheminée"/>
+    <group_elem name="Chevêtre"/>
+    <group_elem name="Cheville"/>
+    <group_elem name="Chevron"/>
+    <group_elem name="Chevron de rive"/>
+    <group_elem name="Contrefiche"/>
+    <group_elem name="Contrelatte"/>
+    <group_elem name="Contremarche"/>
+    <group_elem name="Contreventement"/>
+    <group_elem name="Corbeau"/>
+    <group_elem name="Coyer"/>
+  </list_group>
+  <list_subgroup>
+    <subgroup_elem name="Arêtier"/>
+    <subgroup_elem name="Boulons"/>
+    <subgroup_elem name="Chevronnage"/>
+    <subgroup_elem name="Croupe"/>
+    <subgroup_elem name="Dalle"/>
+    <subgroup_elem name="Empanon"/>
+    <subgroup_elem name="Ferme 1"/>
+    <subgroup_elem name="Ferme 2"/>
+    <subgroup_elem name="Ferme A"/>
+    <subgroup_elem name="Ferme B"/>
+    <subgroup_elem name="Isolation"/>
+    <subgroup_elem name="Lucarne"/>
+    <subgroup_elem name="Menuiserie"/>
+    <subgroup_elem name="Mur"/>
+    <subgroup_elem name="Mur-01"/>
+    <subgroup_elem name="Mur-02"/>
+    <subgroup_elem name="Mur-03"/>
+    <subgroup_elem name="Mur-04"/>
+    <subgroup_elem name="Mur-05"/>
+    <subgroup_elem name="Noue"/>
+    <subgroup_elem name="Panne"/>
+    <subgroup_elem name="Paroi-01"/>
+    <subgroup_elem name="Paroi-02"/>
+    <subgroup_elem name="Paroi-03"/>
+    <subgroup_elem name="Paroi-04"/>
+    <subgroup_elem name="Paroi-05"/>
+    <subgroup_elem name="Porteur"/>
+  </list_subgroup>
+  <list_EDVcode/>
+  <list_comment/>
+  <list_usertext1/>
+  <list_usertext2/>
+  <list_usertext3/>
+  <list_usertext4/>
+  <list_usertext5/>
+  <list_usertext6/>
+  <list_usertext7/>
+  <list_usertext8/>
+  <list_usertext9/>
+  <list_usertext10/>
+  <default_settings_gn>
+    <g index="1">
+      <col_lgn>8</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>9</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>8</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>9</thick_sur>
+      <col_pattern>8</col_pattern>
+      <thick_pattern>9</thick_pattern>
+      <type_pattern>2</type_pattern>
+      <align_pattern>2</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>2.5</hight_txt>
+      <thick_txt>9</thick_txt>
+      <col_txt>8</col_txt>
+      <font_txt>0</font_txt>
+      <ratio_width_height_letters>0.6</ratio_width_height_letters>
+      <alfa_txt>0</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2.5</hight_txt_dim>
+      <thick_txt_dim>9</thick_txt_dim>
+      <col_txt_dim>8</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>0.7</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>0.5</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>3</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>0</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>0</form_dim>
+      <col_dim>8</col_dim>
+      <col_node>8</col_node>
+      <thick_node>997</thick_node>
+      <type_node>2</type_node>
+      <size_node>3</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>8</col_pt>
+      <col_line>8</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="2">
+      <col_lgn>5</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>9</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>5</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>9</thick_sur>
+      <col_pattern>5</col_pattern>
+      <thick_pattern>9</thick_pattern>
+      <type_pattern>2</type_pattern>
+      <align_pattern>0</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>3.5</hight_txt>
+      <thick_txt>9</thick_txt>
+      <col_txt>7</col_txt>
+      <font_txt>0</font_txt>
+      <ratio_width_height_letters>0.7</ratio_width_height_letters>
+      <alfa_txt>10</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2.5</hight_txt_dim>
+      <thick_txt_dim>9</thick_txt_dim>
+      <col_txt_dim>8</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>0.8</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>1</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>0</lancr_dim>
+      <datt_dim>3</datt_dim>
+      <gra2_dim>3</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>0</datt_dim_a>
+      <form_dim>0</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>7</col_node>
+      <thick_node>997</thick_node>
+      <type_node>4</type_node>
+      <size_node>4</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>5</col_pt>
+      <col_line>5</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="3">
+      <col_lgn>7</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>9</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>7</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>9</thick_sur>
+      <col_pattern>7</col_pattern>
+      <thick_pattern>9</thick_pattern>
+      <type_pattern>2</type_pattern>
+      <align_pattern>0</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>5</hight_txt>
+      <thick_txt>9</thick_txt>
+      <col_txt>6</col_txt>
+      <font_txt>1</font_txt>
+      <ratio_width_height_letters>0.8</ratio_width_height_letters>
+      <alfa_txt>10</alfa_txt>
+      <opa_txt>1</opa_txt>
+      <hight_txt_dim>2.5</hight_txt_dim>
+      <thick_txt_dim>9</thick_txt_dim>
+      <col_txt_dim>8</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>0.8</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>2</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>3</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>1.5</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>0</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>6</col_node>
+      <thick_node>997</thick_node>
+      <type_node>30</type_node>
+      <size_node>3</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>7</col_pt>
+      <col_line>7</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="4">
+      <col_lgn>1</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>9</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>1</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>9</thick_sur>
+      <col_pattern>1</col_pattern>
+      <thick_pattern>9</thick_pattern>
+      <type_pattern>104</type_pattern>
+      <align_pattern>0</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>7</hight_txt>
+      <thick_txt>9</thick_txt>
+      <col_txt>1</col_txt>
+      <font_txt>1</font_txt>
+      <ratio_width_height_letters>0.8</ratio_width_height_letters>
+      <alfa_txt>10</alfa_txt>
+      <opa_txt>1</opa_txt>
+      <hight_txt_dim>2.5</hight_txt_dim>
+      <thick_txt_dim>9</thick_txt_dim>
+      <col_txt_dim>8</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>0.8</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>2</opa_txt_dim>
+      <size_dim>0.7</size_dim>
+      <gra_dim>1</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>1.5</datt_dim>
+      <gra2_dim>3</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>1</col_node>
+      <thick_node>997</thick_node>
+      <type_node>10</type_node>
+      <size_node>3</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>1</col_pt>
+      <col_line>1</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="5">
+      <col_lgn>3</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>9</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>3</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>9</thick_sur>
+      <col_pattern>3</col_pattern>
+      <thick_pattern>9</thick_pattern>
+      <type_pattern>2</type_pattern>
+      <align_pattern>5</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>2.5</hight_txt>
+      <thick_txt>9</thick_txt>
+      <col_txt>8</col_txt>
+      <font_txt>1</font_txt>
+      <ratio_width_height_letters>0.6</ratio_width_height_letters>
+      <alfa_txt>0</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>9</thick_txt_dim>
+      <col_txt_dim>8</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>4</col_node>
+      <thick_node>997</thick_node>
+      <type_node>9</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>3</col_pt>
+      <col_line>3</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="6">
+      <col_lgn>10</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>9</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>10</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>9</thick_sur>
+      <col_pattern>10</col_pattern>
+      <thick_pattern>9</thick_pattern>
+      <type_pattern>2</type_pattern>
+      <align_pattern>1</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>3.5</hight_txt>
+      <thick_txt>9</thick_txt>
+      <col_txt>7</col_txt>
+      <font_txt>1</font_txt>
+      <ratio_width_height_letters>0.8</ratio_width_height_letters>
+      <alfa_txt>10</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>9</thick_txt_dim>
+      <col_txt_dim>8</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>5</col_node>
+      <thick_node>997</thick_node>
+      <type_node>17</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>10</col_pt>
+      <col_line>10</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="7">
+      <col_lgn>4</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>9</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>4</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>9</thick_sur>
+      <col_pattern>4</col_pattern>
+      <thick_pattern>9</thick_pattern>
+      <type_pattern>2</type_pattern>
+      <align_pattern>9</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>5</hight_txt>
+      <thick_txt>9</thick_txt>
+      <col_txt>6</col_txt>
+      <font_txt>1</font_txt>
+      <ratio_width_height_letters>0.8</ratio_width_height_letters>
+      <alfa_txt>10</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>9</thick_txt_dim>
+      <col_txt_dim>8</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>3</col_node>
+      <thick_node>997</thick_node>
+      <type_node>31</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>4</col_pt>
+      <col_line>4</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="8">
+      <col_lgn>2</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>9</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>2</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>9</thick_sur>
+      <col_pattern>2</col_pattern>
+      <thick_pattern>9</thick_pattern>
+      <type_pattern>104</type_pattern>
+      <align_pattern>7209065</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>7</hight_txt>
+      <thick_txt>9</thick_txt>
+      <col_txt>1</col_txt>
+      <font_txt>1</font_txt>
+      <ratio_width_height_letters>0.8</ratio_width_height_letters>
+      <alfa_txt>10</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>9</thick_txt_dim>
+      <col_txt_dim>8</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>2</col_node>
+      <thick_node>997</thick_node>
+      <type_node>25</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>2</col_pt>
+      <col_line>2</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="9">
+      <col_lgn>8</col_lgn>
+      <outline_type_lgn>3</outline_type_lgn>
+      <thick_lgn>1</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>8</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>1</thick_sur>
+      <col_pattern>8</col_pattern>
+      <thick_pattern>1</thick_pattern>
+      <type_pattern>3</type_pattern>
+      <align_pattern>5</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>2</hight_txt>
+      <thick_txt>1</thick_txt>
+      <col_txt>4</col_txt>
+      <font_txt>0</font_txt>
+      <ratio_width_height_letters>1</ratio_width_height_letters>
+      <alfa_txt>0</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>1</thick_txt_dim>
+      <col_txt_dim>4</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>5</col_node>
+      <thick_node>1</thick_node>
+      <type_node>1</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>5</col_pt>
+      <col_line>8</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="10">
+      <col_lgn>5</col_lgn>
+      <outline_type_lgn>3</outline_type_lgn>
+      <thick_lgn>1</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>5</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>1</thick_sur>
+      <col_pattern>5</col_pattern>
+      <thick_pattern>1</thick_pattern>
+      <type_pattern>3</type_pattern>
+      <align_pattern>2</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>2</hight_txt>
+      <thick_txt>1</thick_txt>
+      <col_txt>4</col_txt>
+      <font_txt>0</font_txt>
+      <ratio_width_height_letters>1</ratio_width_height_letters>
+      <alfa_txt>0</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>1</thick_txt_dim>
+      <col_txt_dim>4</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>5</col_node>
+      <thick_node>1</thick_node>
+      <type_node>1</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>5</col_pt>
+      <col_line>5</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="11">
+      <col_lgn>7</col_lgn>
+      <outline_type_lgn>3</outline_type_lgn>
+      <thick_lgn>1</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>7</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>1</thick_sur>
+      <col_pattern>7</col_pattern>
+      <thick_pattern>1</thick_pattern>
+      <type_pattern>3</type_pattern>
+      <align_pattern>1</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>2</hight_txt>
+      <thick_txt>1</thick_txt>
+      <col_txt>4</col_txt>
+      <font_txt>0</font_txt>
+      <ratio_width_height_letters>1</ratio_width_height_letters>
+      <alfa_txt>0</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>1</thick_txt_dim>
+      <col_txt_dim>4</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>5</col_node>
+      <thick_node>1</thick_node>
+      <type_node>1</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>7</col_pt>
+      <col_line>7</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="12">
+      <col_lgn>1</col_lgn>
+      <outline_type_lgn>3</outline_type_lgn>
+      <thick_lgn>1</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>1</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>1</thick_sur>
+      <col_pattern>1</col_pattern>
+      <thick_pattern>1</thick_pattern>
+      <type_pattern>3</type_pattern>
+      <align_pattern>7</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>2</hight_txt>
+      <thick_txt>1</thick_txt>
+      <col_txt>4</col_txt>
+      <font_txt>0</font_txt>
+      <ratio_width_height_letters>1</ratio_width_height_letters>
+      <alfa_txt>0</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>1</thick_txt_dim>
+      <col_txt_dim>4</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>5</col_node>
+      <thick_node>1</thick_node>
+      <type_node>1</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>1</col_pt>
+      <col_line>1</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="13">
+      <col_lgn>11</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>1</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>11</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>1</thick_sur>
+      <col_pattern>11</col_pattern>
+      <thick_pattern>1</thick_pattern>
+      <type_pattern>2</type_pattern>
+      <align_pattern>4</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>2</hight_txt>
+      <thick_txt>1</thick_txt>
+      <col_txt>4</col_txt>
+      <font_txt>0</font_txt>
+      <ratio_width_height_letters>1</ratio_width_height_letters>
+      <alfa_txt>0</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>1</thick_txt_dim>
+      <col_txt_dim>4</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>5</col_node>
+      <thick_node>1</thick_node>
+      <type_node>1</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>11</col_pt>
+      <col_line>11</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="14">
+      <col_lgn>9</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>1</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>9</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>1</thick_sur>
+      <col_pattern>9</col_pattern>
+      <thick_pattern>1</thick_pattern>
+      <type_pattern>2</type_pattern>
+      <align_pattern>0</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>2</hight_txt>
+      <thick_txt>1</thick_txt>
+      <col_txt>4</col_txt>
+      <font_txt>0</font_txt>
+      <ratio_width_height_letters>1</ratio_width_height_letters>
+      <alfa_txt>0</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>1</thick_txt_dim>
+      <col_txt_dim>4</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>5</col_node>
+      <thick_node>1</thick_node>
+      <type_node>1</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>9</col_pt>
+      <col_line>9</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="15">
+      <col_lgn>12</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>1</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>12</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>1</thick_sur>
+      <col_pattern>12</col_pattern>
+      <thick_pattern>1</thick_pattern>
+      <type_pattern>2</type_pattern>
+      <align_pattern>0</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>2</hight_txt>
+      <thick_txt>1</thick_txt>
+      <col_txt>4</col_txt>
+      <font_txt>0</font_txt>
+      <ratio_width_height_letters>1</ratio_width_height_letters>
+      <alfa_txt>0</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>1</thick_txt_dim>
+      <col_txt_dim>4</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>5</col_node>
+      <thick_node>1</thick_node>
+      <type_node>1</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>12</col_pt>
+      <col_line>12</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+    <g index="16">
+      <col_lgn>6</col_lgn>
+      <outline_type_lgn>1</outline_type_lgn>
+      <thick_lgn>1</thick_lgn>
+      <extr_lgn>0</extr_lgn>
+      <col_sur>6</col_sur>
+      <outline_type_sur>1</outline_type_sur>
+      <thick_sur>1</thick_sur>
+      <col_pattern>6</col_pattern>
+      <thick_pattern>1</thick_pattern>
+      <type_pattern>2</type_pattern>
+      <align_pattern>0</align_pattern>
+      <fact_pattern>1</fact_pattern>
+      <hight_txt>2</hight_txt>
+      <thick_txt>1</thick_txt>
+      <col_txt>4</col_txt>
+      <font_txt>0</font_txt>
+      <ratio_width_height_letters>1</ratio_width_height_letters>
+      <alfa_txt>0</alfa_txt>
+      <opa_txt>0</opa_txt>
+      <hight_txt_dim>2</hight_txt_dim>
+      <thick_txt_dim>1</thick_txt_dim>
+      <col_txt_dim>4</col_txt_dim>
+      <font_txt_dim>0</font_txt_dim>
+      <ratio_width_height_letters_dim>1</ratio_width_height_letters_dim>
+      <alfa_txt_dim>0</alfa_txt_dim>
+      <opa_txt_dim>0</opa_txt_dim>
+      <size_dim>1</size_dim>
+      <gra_dim>2</gra_dim>
+      <attach_dist>1</attach_dist>
+      <lancr_dim>10</lancr_dim>
+      <datt_dim>10</datt_dim>
+      <gra2_dim>1</gra2_dim>
+      <attach_dist_a>1</attach_dist_a>
+      <lancr_dima_a>10</lancr_dima_a>
+      <datt_dim_a>10</datt_dim_a>
+      <form_dim>2</form_dim>
+      <col_dim>4</col_dim>
+      <col_node>5</col_node>
+      <thick_node>1</thick_node>
+      <type_node>1</type_node>
+      <size_node>1</size_node>
+      <opa_node>0</opa_node>
+      <col_pt>6</col_pt>
+      <col_line>6</col_line>
+      <col_lgn_RGB>0</col_lgn_RGB>
+      <col_sur_RGB>0</col_sur_RGB>
+      <col_pattern_RGB>0</col_pattern_RGB>
+    </g>
+  </default_settings_gn>
+  <image_param/>
+  <links_containers_surfaces/>
+  <sub_variants/>
+  <container_variants/>
+</Data>
